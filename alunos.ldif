@@ -1,0 +1,5610 @@
+dn: uid=l4759,ou=People,dc=di,dc=uevora,dc=pt
+uid: l4759
+cn: Luis Miguel Lopes Mota
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 4759
+gidNumber: 1013
+homeDirectory: /home/aluno/l4759
+gecos: Luis Miguel Lopes Mota,,,
+userPassword: {crypt}6yNVOKF5CDAV2
+shadowLastChange: 11500
+
+dn: uid=l6639,ou=People,dc=di,dc=uevora,dc=pt
+uid: l6639
+cn: Jose Eduardo de Carvalho Rosado Saianda
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 6639
+gidNumber: 1013
+homeDirectory: /home/aluno/l6639
+gecos: Jose Eduardo de Carvalho Rosado Saianda,,,
+userPassword: {crypt}pV6Z54AsJLeGc
+shadowLastChange: 11500
+
+dn: uid=l7391,ou=People,dc=di,dc=uevora,dc=pt
+uid: l7391
+cn: Margarida Maria Quito Micaelo Grosso
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 7391
+gidNumber: 1013
+homeDirectory: /home/aluno/l7391
+gecos: Margarida Maria Quito Micaelo Grosso,,,
+userPassword: {crypt}32mjrvk6GLtJg
+shadowLastChange: 11500
+
+dn: uid=l8341,ou=People,dc=di,dc=uevora,dc=pt
+uid: l8341
+cn: Rui Jorge Miguens Mendes
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 8341
+gidNumber: 1013
+homeDirectory: /home/aluno/l8341
+gecos: Rui Jorge Miguens Mendes,,,
+userPassword: {crypt}0xfOUzXsY.Ov.
+shadowLastChange: 11500
+
+dn: uid=l8398,ou=People,dc=di,dc=uevora,dc=pt
+uid: l8398
+cn: Luis Manuel Grilo Marques Bengala
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 8398
+gidNumber: 1013
+homeDirectory: /home/aluno/l8398
+gecos: Luis Manuel Grilo Marques Bengala,,,
+userPassword: {crypt}fuQFjy/W.OkB2
+shadowLastChange: 11500
+
+dn: uid=l8455,ou=People,dc=di,dc=uevora,dc=pt
+uid: l8455
+cn: Joaquim Maria Madeira Fernandes
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 8455
+gidNumber: 1013
+homeDirectory: /home/aluno/l8455
+gecos: Joaquim Maria Madeira Fernandes,,,
+userPassword: {crypt}5KhgGuDzoyk1I
+shadowLastChange: 11500
+
+dn: uid=l8474,ou=People,dc=di,dc=uevora,dc=pt
+uid: l8474
+cn: Luis Nuno Canelas Guegues
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 8474
+gidNumber: 1013
+homeDirectory: /home/aluno/l8474
+gecos: Luis Nuno Canelas Guegues,,,
+userPassword: {crypt}LxNCi1i1wFzVc
+shadowLastChange: 11500
+
+dn: uid=l9098,ou=People,dc=di,dc=uevora,dc=pt
+uid: l9098
+cn: Carlos Manuel Amaral Malagueiro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 9098
+gidNumber: 1013
+homeDirectory: /home/aluno/l9098
+gecos: Carlos Manuel Amaral Malagueiro,,,
+userPassword: {crypt}AxfE.itMDhepg
+shadowLastChange: 11500
+
+dn: uid=l9867,ou=People,dc=di,dc=uevora,dc=pt
+uid: l9867
+cn: Manuel Jacinto Madeira Sardinha
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 9867
+gidNumber: 1013
+homeDirectory: /home/aluno/l9867
+gecos: Manuel Jacinto Madeira Sardinha,,,
+userPassword: {crypt}NKePBpt519enI
+shadowLastChange: 11500
+
+dn: uid=l10203,ou=People,dc=di,dc=uevora,dc=pt
+uid: l10203
+cn: Augusto Emanuel Piedade Balca
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 10203
+gidNumber: 1013
+homeDirectory: /home/aluno/l10203
+gecos: Augusto Emanuel Piedade Balca,,,
+userPassword: {crypt}vnCylRQRGux46
+shadowLastChange: 11500
+
+dn: uid=l10360,ou=People,dc=di,dc=uevora,dc=pt
+uid: l10360
+cn: Tiago Miguel de Jesus Duarte Costa
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 10360
+gidNumber: 1013
+homeDirectory: /home/aluno/l10360
+gecos: Tiago Miguel de Jesus Duarte Costa,,,
+userPassword: {crypt}6oLScneRZ/Kbs
+shadowLastChange: 11500
+
+dn: uid=l10409,ou=People,dc=di,dc=uevora,dc=pt
+uid: l10409
+cn: Ricardo Jorge Matias Torrao
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 10409
+gidNumber: 1013
+homeDirectory: /home/aluno/l10409
+gecos: Ricardo Jorge Matias Torrao,,,
+userPassword: {crypt}zRpo6btPl/Oio
+shadowLastChange: 11500
+
+dn: uid=l10454,ou=People,dc=di,dc=uevora,dc=pt
+uid: l10454
+cn: Goncalo Jorge Coelho e Silva
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 10454
+gidNumber: 1013
+homeDirectory: /home/aluno/l10454
+gecos: Goncalo Jorge Coelho e Silva,,,
+userPassword: {crypt}wKCcLJnPj/THo
+shadowLastChange: 11500
+
+dn: uid=l10473,ou=People,dc=di,dc=uevora,dc=pt
+uid: l10473
+cn: Pedro Jose Grilo Lopes Patinho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 10473
+gidNumber: 1013
+homeDirectory: /home/aluno/l10473
+gecos: Pedro Jose Grilo Lopes Patinho,,,
+userPassword: {crypt}wgqL7Cpg4Q4dA
+shadowLastChange: 11500
+
+dn: uid=l10496,ou=People,dc=di,dc=uevora,dc=pt
+uid: l10496
+cn: Hugo Manuel Marreiros Fialho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 10496
+gidNumber: 1013
+homeDirectory: /home/aluno/l10496
+gecos: Hugo Manuel Marreiros Fialho,,,
+userPassword: {crypt}01TKtDWSzQ6F2
+shadowLastChange: 11500
+
+dn: uid=l10572,ou=People,dc=di,dc=uevora,dc=pt
+uid: l10572
+cn: David Luis Fernandes de Araujo
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 10572
+gidNumber: 1013
+homeDirectory: /home/aluno/l10572
+gecos: David Luis Fernandes de Araujo,,,
+userPassword: {crypt}/SEj9P1CGkPHM
+shadowLastChange: 11500
+
+dn: uid=l10638,ou=People,dc=di,dc=uevora,dc=pt
+uid: l10638
+cn: Pedro Miguel Dias Porfirio Mouzinho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 10638
+gidNumber: 1013
+homeDirectory: /home/aluno/l10638
+gecos: Pedro Miguel Dias Porfirio Mouzinho,,,
+userPassword: {crypt}0OzM6Kw9aeLqo
+shadowLastChange: 11500
+
+dn: uid=l10666,ou=People,dc=di,dc=uevora,dc=pt
+uid: l10666
+cn: Joao Maria dos Vultos Chaveiro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 10666
+gidNumber: 1013
+homeDirectory: /home/aluno/l10666
+gecos: Joao Maria dos Vultos Chaveiro,,,
+userPassword: {crypt}PnbYHV23Q7lds
+shadowLastChange: 11500
+
+dn: uid=l10691,ou=People,dc=di,dc=uevora,dc=pt
+uid: l10691
+cn: Hugo Miguel Barbara Martins
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 10691
+gidNumber: 1013
+homeDirectory: /home/aluno/l10691
+gecos: Hugo Miguel Barbara Martins,,,
+userPassword: {crypt}0QKxZ/Fgb7Lgw
+shadowLastChange: 11500
+
+dn: uid=l10711,ou=People,dc=di,dc=uevora,dc=pt
+uid: l10711
+cn: Luis Miguel Prata Ramos
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 10711
+gidNumber: 1013
+homeDirectory: /home/aluno/l10711
+gecos: Luis Miguel Prata Ramos,,,
+userPassword: {crypt}2EnnO0xpPqO7o
+shadowLastChange: 11500
+
+dn: uid=l10843,ou=People,dc=di,dc=uevora,dc=pt
+uid: l10843
+cn: David Manuel Calado Alas
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 10843
+gidNumber: 1013
+homeDirectory: /home/aluno/l10843
+gecos: David Manuel Calado Alas,,,
+userPassword: {crypt}/s/TYcu4g6kMY
+shadowLastChange: 11500
+
+dn: uid=l10855,ou=People,dc=di,dc=uevora,dc=pt
+uid: l10855
+cn: Tiago Miguel Pereira Jorge de Sousa Lourenco
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 10855
+gidNumber: 1013
+homeDirectory: /home/aluno/l10855
+gecos: Tiago Miguel Pereira Jorge de Sousa Lourenco,,,
+userPassword: {crypt}/3iU8Rkh2z00M
+shadowLastChange: 11500
+
+dn: uid=l10891,ou=People,dc=di,dc=uevora,dc=pt
+uid: l10891
+cn: Fernando Jose Rebelo Palma
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 10891
+gidNumber: 1013
+homeDirectory: /home/aluno/l10891
+gecos: Fernando Jose Rebelo Palma,,,
+userPassword: {crypt}5tTWC6FNURdQI
+shadowLastChange: 11500
+
+dn: uid=l10897,ou=People,dc=di,dc=uevora,dc=pt
+uid: l10897
+cn: Fernando Miguel Cabrita Correia
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 10897
+gidNumber: 1013
+homeDirectory: /home/aluno/l10897
+gecos: Fernando Miguel Cabrita Correia,,,
+userPassword: {crypt}Fm8h7NP1M1LZA
+shadowLastChange: 11500
+
+dn: uid=l10899,ou=People,dc=di,dc=uevora,dc=pt
+uid: l10899
+cn: Vasco Miguel Machado Pifano Rodrigues
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 10899
+gidNumber: 1013
+homeDirectory: /home/aluno/l10899
+gecos: Vasco Miguel Machado Pifano Rodrigues,,,
+userPassword: {crypt}2kccPGdmeuyAk
+shadowLastChange: 11500
+
+dn: uid=l10956,ou=People,dc=di,dc=uevora,dc=pt
+uid: l10956
+cn: Pedro Luis da Cruz Duarte
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 10956
+gidNumber: 1013
+homeDirectory: /home/aluno/l10956
+gecos: Pedro Luis da Cruz Duarte,,,
+userPassword: {crypt}03mE7FH10OfOc
+shadowLastChange: 11500
+
+dn: uid=l10971,ou=People,dc=di,dc=uevora,dc=pt
+uid: l10971
+cn: Nuno Alexandre Saudades Simoes
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 10971
+gidNumber: 1013
+homeDirectory: /home/aluno/l10971
+gecos: Nuno Alexandre Saudades Simoes,,,
+userPassword: {crypt}0rwLn5akrZOrM
+shadowLastChange: 11500
+
+dn: uid=l11017,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11017
+cn: Jorge Nemesio Franco Remesso Rodrigues
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11017
+gidNumber: 1013
+homeDirectory: /home/aluno/l11017
+gecos: Jorge Nemesio Franco Remesso Rodrigues,,,
+userPassword: {crypt}BDkq4gasGXcYw
+shadowLastChange: 11500
+
+dn: uid=l11031,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11031
+cn: Miguel Jorge Guerra Alves
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11031
+gidNumber: 1013
+homeDirectory: /home/aluno/l11031
+gecos: Miguel Jorge Guerra Alves,,,
+userPassword: {crypt}aCyLCEUZZqLYM
+shadowLastChange: 11500
+
+dn: uid=l11082,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11082
+cn: Joao Manuel da Silva Conceicao
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11082
+gidNumber: 1013
+homeDirectory: /home/aluno/l11082
+gecos: Joao Manuel da Silva Conceicao,,,
+userPassword: {crypt}iYbpAplKn2Gwg
+shadowLastChange: 11500
+
+dn: uid=l11160,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11160
+cn: Jose Filipe da Silva Cardoso Garcez
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11160
+gidNumber: 1013
+homeDirectory: /home/aluno/l11160
+gecos: Jose Filipe da Silva Cardoso Garcez,,,
+userPassword: {crypt}ruhkm1eVRr6rU
+shadowLastChange: 11500
+
+dn: uid=l11172,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11172
+cn: Carlos Manuel da Silva Pereira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11172
+gidNumber: 1013
+homeDirectory: /home/aluno/l11172
+gecos: Carlos Manuel da Silva Pereira,,,
+userPassword: {crypt}QmRpr/zAKHb/.
+shadowLastChange: 11500
+
+dn: uid=l11182,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11182
+cn: Antonio Manuel Almas Bacalhau
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11182
+gidNumber: 1013
+homeDirectory: /home/aluno/l11182
+gecos: Antonio Manuel Almas Bacalhau,,,
+userPassword: {crypt}1AFip0TKS7rEU
+shadowLastChange: 11500
+
+dn: uid=l11222,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11222
+cn: Maria Teresa Figo de Vilas-Boas Potes
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11222
+gidNumber: 1013
+homeDirectory: /home/aluno/l11222
+gecos: Maria Teresa Figo de Vilas-Boas Potes,,,
+userPassword: {crypt}lTVslQJimh/BE
+shadowLastChange: 11500
+
+dn: uid=l11269,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11269
+cn: Goncalo Jorge Rodero Marrafa
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11269
+gidNumber: 1013
+homeDirectory: /home/aluno/l11269
+gecos: Goncalo Jorge Rodero Marrafa,,,
+userPassword: {crypt}PQpMF1pebxXaQ
+shadowLastChange: 11500
+
+dn: uid=l11313,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11313
+cn: Jorge Manuel Turinaceto Matos
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11313
+gidNumber: 1013
+homeDirectory: /home/aluno/l11313
+gecos: Jorge Manuel Turinaceto Matos,,,
+userPassword: {crypt}uSNsui4cIGRwQ
+shadowLastChange: 11500
+
+dn: uid=l11317,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11317
+cn: Nelson Alexandre da Silva Ezequiel Marques
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11317
+gidNumber: 1013
+homeDirectory: /home/aluno/l11317
+gecos: Nelson Alexandre da Silva Ezequiel Marques,,,
+userPassword: {crypt}Cu7IjvaXvFCoU
+shadowLastChange: 11500
+
+dn: uid=l11329,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11329
+cn: Nelson Alexandre Marques Matias
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11329
+gidNumber: 1013
+homeDirectory: /home/aluno/l11329
+gecos: Nelson Alexandre Marques Matias,,,
+userPassword: {crypt}1YoKIAdXLWh6g
+shadowLastChange: 11500
+
+dn: uid=l11399,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11399
+cn: Luis Filipe Louro Valadas
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11399
+gidNumber: 1013
+homeDirectory: /home/aluno/l11399
+gecos: Luis Filipe Louro Valadas,,,
+userPassword: {crypt}ihvDOqCRG6s.s
+shadowLastChange: 11500
+
+dn: uid=l11403,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11403
+cn: Jose Miguel Gomes Saias
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11403
+gidNumber: 1013
+homeDirectory: /home/aluno/l11403
+gecos: Jose Miguel Gomes Saias,,,
+userPassword: {crypt}03f1e4zrzRmrE
+shadowLastChange: 11500
+
+dn: uid=l11405,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11405
+cn: Paulo Jorge Banha Caeiro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11405
+gidNumber: 1013
+homeDirectory: /home/aluno/l11405
+gecos: Paulo Jorge Banha Caeiro,,,
+userPassword: {crypt}0h9h3RX0f4fTQ
+shadowLastChange: 11500
+
+dn: uid=l11412,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11412
+cn: Mario Alexandre Torres Madeira do Rosario
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11412
+gidNumber: 1013
+homeDirectory: /home/aluno/l11412
+gecos: Mario Alexandre Torres Madeira do Rosario,,,
+userPassword: {crypt}1fhB9uIREPWJM
+shadowLastChange: 11500
+
+dn: uid=l11458,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11458
+cn: Bruno Goncalo Pacheco Tavares
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11458
+gidNumber: 1013
+homeDirectory: /home/aluno/l11458
+gecos: Bruno Goncalo Pacheco Tavares,,,
+userPassword: {crypt}iRD4NgH0ptWrM
+shadowLastChange: 11500
+
+dn: uid=l11521,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11521
+cn: Gustavo Alexandre Teixeira Laboreiro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11521
+gidNumber: 1013
+homeDirectory: /home/aluno/l11521
+gecos: Gustavo Alexandre Teixeira Laboreiro,,,
+userPassword: {crypt}YmdUjZvs2CXpY
+shadowLastChange: 11500
+
+dn: uid=l11538,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11538
+cn: Rui Manuel Gomes Patrao
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11538
+gidNumber: 1013
+homeDirectory: /home/aluno/l11538
+gecos: Rui Manuel Gomes Patrao,,,
+userPassword: {crypt}/omRJR5jEaOXQ
+shadowLastChange: 11500
+
+dn: uid=l11555,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11555
+cn: Nuno Alexandre Estorrica Palma
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11555
+gidNumber: 1013
+homeDirectory: /home/aluno/l11555
+gecos: Nuno Alexandre Estorrica Palma,,,
+userPassword: {crypt}iDgq9kbctwfvI
+shadowLastChange: 11500
+
+dn: uid=l11581,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11581
+cn: Carlos Eduardo Vicente Timoteo
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11581
+gidNumber: 1013
+homeDirectory: /home/aluno/l11581
+gecos: Carlos Eduardo Vicente Timoteo,,,
+userPassword: {crypt}0G2G4eCU/GMHQ
+shadowLastChange: 11500
+
+dn: uid=l11593,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11593
+cn: Paulo Sergio Correia Nunes
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11593
+gidNumber: 1013
+homeDirectory: /home/aluno/l11593
+gecos: Paulo Sergio Correia Nunes,,,
+userPassword: {crypt}/fMzdtz45SIdw
+shadowLastChange: 11500
+
+dn: uid=l11641,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11641
+cn: Hugo Manuel Matos Malarranha
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11641
+gidNumber: 1013
+homeDirectory: /home/aluno/l11641
+gecos: Hugo Manuel Matos Malarranha,,,
+userPassword: {crypt}5BkPdtttVWoBk
+shadowLastChange: 11500
+
+dn: uid=l11653,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11653
+cn: Paulo Jorge Rosado Faustino
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11653
+gidNumber: 1013
+homeDirectory: /home/aluno/l11653
+gecos: Paulo Jorge Rosado Faustino,,,
+userPassword: {crypt}inE48QwBDm5tg
+shadowLastChange: 11500
+
+dn: uid=l11670,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11670
+cn: Paulo Alexandre Amaral Peixoto de Oliveira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11670
+gidNumber: 1013
+homeDirectory: /home/aluno/l11670
+gecos: Paulo Alexandre Amaral Peixoto de Oliveira,,,
+userPassword: {crypt}ZI.dD1Zxkernw
+shadowLastChange: 11500
+
+dn: uid=l11718,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11718
+cn: Carlos Manuel Mirador Portalegre
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11718
+gidNumber: 1013
+homeDirectory: /home/aluno/l11718
+gecos: Carlos Manuel Mirador Portalegre,,,
+userPassword: {crypt}N03EHd2E2cRnQ
+shadowLastChange: 11500
+
+dn: uid=l11768,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11768
+cn: Ricardo Manuel Goncalves Marques
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11768
+gidNumber: 1013
+homeDirectory: /home/aluno/l11768
+gecos: Ricardo Manuel Goncalves Marques,,,
+userPassword: {crypt}/oNTXrfLNqr4k
+shadowLastChange: 11500
+
+dn: uid=l11870,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11870
+cn: Rui Ricardo Piteira Rebocho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11870
+gidNumber: 1013
+homeDirectory: /home/aluno/l11870
+gecos: Rui Ricardo Piteira Rebocho,,,
+userPassword: {crypt}HZLVuS2iLx6Cs
+shadowLastChange: 11500
+
+dn: uid=l11888,ou=People,dc=di,dc=uevora,dc=pt
+uid: l11888
+cn: Guilherme Miguel Galveia Pires
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 11888
+gidNumber: 1013
+homeDirectory: /home/aluno/l11888
+gecos: Guilherme Miguel Galveia Pires,,,
+userPassword: {crypt}ZzAdkVBMz733E
+shadowLastChange: 11500
+
+dn: uid=l12046,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12046
+cn: David Renato Matilde Mota Cravinho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12046
+gidNumber: 1013
+homeDirectory: /home/aluno/l12046
+gecos: David Renato Matilde Mota Cravinho,,,
+userPassword: {crypt}VzcNZYc.Rlbjo
+shadowLastChange: 11500
+
+dn: uid=l12058,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12058
+cn: Miguel Reis Calisto da Silva
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12058
+gidNumber: 1013
+homeDirectory: /home/aluno/l12058
+gecos: Miguel Reis Calisto da Silva,,,
+userPassword: {crypt}p.CfO6.t7IdJU
+shadowLastChange: 11500
+
+dn: uid=l12070,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12070
+cn: Luis Miguel Martins Farinha
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12070
+gidNumber: 1013
+homeDirectory: /home/aluno/l12070
+gecos: Luis Miguel Martins Farinha,,,
+userPassword: {crypt}IDN9H1ObdYF3c
+shadowLastChange: 11500
+
+dn: uid=l12221,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12221
+cn: Jose Eduardo Pereira Gomes Leite
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12221
+gidNumber: 1013
+homeDirectory: /home/aluno/l12221
+gecos: Jose Eduardo Pereira Gomes Leite,,,
+userPassword: {crypt}hQosRSQBX9wKU
+shadowLastChange: 11500
+
+dn: uid=l12238,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12238
+cn: Luis Miguel da Costa Pereira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12238
+gidNumber: 1013
+homeDirectory: /home/aluno/l12238
+gecos: Luis Miguel da Costa Pereira,,,
+userPassword: {crypt}0KQaH6/7d8cb2
+shadowLastChange: 11500
+
+dn: uid=l12263,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12263
+cn: Claudio Herminio Goncalves de Carvalho Ramos
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12263
+gidNumber: 1013
+homeDirectory: /home/aluno/l12263
+gecos: Claudio Herminio Goncalves de Carvalho Ramos,,,
+userPassword: {crypt}LO49mhtnbL5Ag
+shadowLastChange: 11500
+
+dn: uid=l12282,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12282
+cn: Rui Ernesto da Silva Gomes
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12282
+gidNumber: 1013
+homeDirectory: /home/aluno/l12282
+gecos: Rui Ernesto da Silva Gomes,,,
+userPassword: {crypt}idrCYeU60v8SQ
+shadowLastChange: 11500
+
+dn: uid=l12283,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12283
+cn: Ana Paula Bailote Mauricio
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12283
+gidNumber: 1013
+homeDirectory: /home/aluno/l12283
+gecos: Ana Paula Bailote Mauricio,,,
+userPassword: {crypt}rZDvErJ4nWHVU
+shadowLastChange: 11500
+
+dn: uid=l12317,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12317
+cn: Luis Miguel Quintas Ricardo
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12317
+gidNumber: 1013
+homeDirectory: /home/aluno/l12317
+gecos: Luis Miguel Quintas Ricardo,,,
+userPassword: {crypt}hxx0GxUbEFwYg
+shadowLastChange: 11500
+
+dn: uid=l12389,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12389
+cn: Pedro Alexandre Rosado de Carvalho Louro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12389
+gidNumber: 1013
+homeDirectory: /home/aluno/l12389
+gecos: Pedro Alexandre Rosado de Carvalho Louro,,,
+userPassword: {crypt}qDUayRoQEhOuQ
+shadowLastChange: 11500
+
+dn: uid=l12419,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12419
+cn: Jorge Miguel Soares Von Doellinger
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12419
+gidNumber: 1013
+homeDirectory: /home/aluno/l12419
+gecos: Jorge Miguel Soares Von Doellinger,,,
+userPassword: {crypt}b64aD4pqUkk4A
+shadowLastChange: 11500
+
+dn: uid=l12429,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12429
+cn: Nuno Goncalo Conceicao Barbara Rebocho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12429
+gidNumber: 1013
+homeDirectory: /home/aluno/l12429
+gecos: Nuno Goncalo Conceicao Barbara Rebocho,,,
+userPassword: {crypt}1Nf.nQ2bt6Jdo
+shadowLastChange: 11500
+
+dn: uid=l12455,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12455
+cn: Jose Luis Cortes Lopes Infante
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12455
+gidNumber: 1013
+homeDirectory: /home/aluno/l12455
+gecos: Jose Luis Cortes Lopes Infante,,,
+userPassword: {crypt}gESdOCOz1rzuc
+shadowLastChange: 11500
+
+dn: uid=l12511,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12511
+cn: Pedro Dinis Loureiro Salgueiro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12511
+gidNumber: 1013
+homeDirectory: /home/aluno/l12511
+gecos: Pedro Dinis Loureiro Salgueiro,,,
+userPassword: {crypt}4uDc3lwgJpdnc
+shadowLastChange: 11500
+
+dn: uid=l12532,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12532
+cn: Nelson Jose Mendes Godinho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12532
+gidNumber: 1013
+homeDirectory: /home/aluno/l12532
+gecos: Nelson Jose Mendes Godinho,,,
+userPassword: {crypt}7m355.xWos9rw
+shadowLastChange: 11500
+
+dn: uid=l12590,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12590
+cn: Diogo Fernando Pimenta Mouta
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12590
+gidNumber: 1013
+homeDirectory: /home/aluno/l12590
+gecos: Diogo Fernando Pimenta Mouta,,,
+userPassword: {crypt}dH8vfJhKYfDDc
+shadowLastChange: 11500
+
+dn: uid=l12607,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12607
+cn: Mario Filipe Pataco Anico Franco
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12607
+gidNumber: 1013
+homeDirectory: /home/aluno/l12607
+gecos: Mario Filipe Pataco Anico Franco,,,
+userPassword: {crypt}0LJ.yLZqTIvIk
+shadowLastChange: 11500
+
+dn: uid=l12610,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12610
+cn: Nelson Osvaldo Torres Madeira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12610
+gidNumber: 1013
+homeDirectory: /home/aluno/l12610
+gecos: Nelson Osvaldo Torres Madeira,,,
+userPassword: {crypt}ST53mbAYlDvZg
+shadowLastChange: 11500
+
+dn: uid=l12612,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12612
+cn: Nuno Fernando Balsa Graca
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12612
+gidNumber: 1013
+homeDirectory: /home/aluno/l12612
+gecos: Nuno Fernando Balsa Graca,,,
+userPassword: {crypt}ws.hc7E.3upq2
+shadowLastChange: 11500
+
+dn: uid=l12614,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12614
+cn: Pedro Miguel Nunes Ferreira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12614
+gidNumber: 1013
+homeDirectory: /home/aluno/l12614
+gecos: Pedro Miguel Nunes Ferreira,,,
+userPassword: {crypt}2Yy4LhDnVuZz.
+shadowLastChange: 11500
+
+dn: uid=l12617,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12617
+cn: Ana Paula Martins Assuncao
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12617
+gidNumber: 1013
+homeDirectory: /home/aluno/l12617
+gecos: Ana Paula Martins Assuncao,,,
+userPassword: {crypt}16SYIyHFI1cZo
+shadowLastChange: 11500
+
+dn: uid=l12620,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12620
+cn: Hugo Cesar Murteira Francisco
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12620
+gidNumber: 1013
+homeDirectory: /home/aluno/l12620
+gecos: Hugo Cesar Murteira Francisco,,,
+userPassword: {crypt}r1U/ZjaHe51O2
+shadowLastChange: 11500
+
+dn: uid=l12652,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12652
+cn: Rodrigo Nuno Mota Redol
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12652
+gidNumber: 1013
+homeDirectory: /home/aluno/l12652
+gecos: Rodrigo Nuno Mota Redol,,,
+userPassword: {crypt}h6Wu344wVphNs
+shadowLastChange: 11500
+
+dn: uid=l12663,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12663
+cn: Joao Luis Inacio Barreto Faria
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12663
+gidNumber: 1013
+homeDirectory: /home/aluno/l12663
+gecos: Joao Luis Inacio Barreto Faria,,,
+userPassword: {crypt}IAJoaOTUGrPZo
+shadowLastChange: 11500
+
+dn: uid=l12697,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12697
+cn: Tiago Miguel Maximino de Sousa
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12697
+gidNumber: 1013
+homeDirectory: /home/aluno/l12697
+gecos: Tiago Miguel Maximino de Sousa,,,
+userPassword: {crypt}pSK2hi673Myz2
+shadowLastChange: 11500
+
+dn: uid=l12707,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12707
+cn: Ricardo Jose Casimiro Cabecinha
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12707
+gidNumber: 1013
+homeDirectory: /home/aluno/l12707
+gecos: Ricardo Jose Casimiro Cabecinha,,,
+userPassword: {crypt}P.4Znunup/Udw
+shadowLastChange: 11500
+
+dn: uid=l12722,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12722
+cn: Nelson Manuel Sacristao Carrasco
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12722
+gidNumber: 1013
+homeDirectory: /home/aluno/l12722
+gecos: Nelson Manuel Sacristao Carrasco,,,
+userPassword: {crypt}APcE5VlpZUt66
+shadowLastChange: 11500
+
+dn: uid=l12723,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12723
+cn: Filipe Alexandre Percheiro Salvado
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12723
+gidNumber: 1013
+homeDirectory: /home/aluno/l12723
+gecos: Filipe Alexandre Percheiro Salvado,,,
+userPassword: {crypt}gaQ5ndt2zlWMc
+shadowLastChange: 11500
+
+dn: uid=l12805,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12805
+cn: Bruno Roberto Reto Fernandes
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12805
+gidNumber: 1013
+homeDirectory: /home/aluno/l12805
+gecos: Bruno Roberto Reto Fernandes,,,
+userPassword: {crypt}pTxatBHwwevF6
+shadowLastChange: 11500
+
+dn: uid=l12823,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12823
+cn: Anibal Jose Gaspar Damiao
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12823
+gidNumber: 1013
+homeDirectory: /home/aluno/l12823
+gecos: Anibal Jose Gaspar Damiao,,,
+userPassword: {crypt}VIZWqlhB6bDDE
+shadowLastChange: 11500
+
+dn: uid=l12890,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12890
+cn: Joao Manuel Braga Mouro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12890
+gidNumber: 1013
+homeDirectory: /home/aluno/l12890
+gecos: Joao Manuel Braga Mouro,,,
+userPassword: {crypt}d03LJN61.wTk2
+shadowLastChange: 11500
+
+dn: uid=l12909,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12909
+cn: Pedro Alexandre Faustino Fragoso
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12909
+gidNumber: 1013
+homeDirectory: /home/aluno/l12909
+gecos: Pedro Alexandre Faustino Fragoso,,,
+userPassword: {crypt}zIW35cyjeSfHI
+shadowLastChange: 11500
+
+dn: uid=l12941,ou=People,dc=di,dc=uevora,dc=pt
+uid: l12941
+cn: Paulo Tiago Clemente Serrao
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 12941
+gidNumber: 1013
+homeDirectory: /home/aluno/l12941
+gecos: Paulo Tiago Clemente Serrao,,,
+userPassword: {crypt}W6iq/eqWY9/.6
+shadowLastChange: 11500
+
+dn: uid=l13013,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13013
+cn: Ricardo Antonio Nunes da Fonseca
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13013
+gidNumber: 1013
+homeDirectory: /home/aluno/l13013
+gecos: Ricardo Antonio Nunes da Fonseca,,,
+userPassword: {crypt}WyJd/2j6SydGk
+shadowLastChange: 11500
+
+dn: uid=l13017,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13017
+cn: Emanuel Lopes Silva Janeiro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13017
+gidNumber: 1013
+homeDirectory: /home/aluno/l13017
+gecos: Emanuel Lopes Silva Janeiro,,,
+userPassword: {crypt}Kd0G/AvrJC0cg
+shadowLastChange: 11500
+
+dn: uid=l13042,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13042
+cn: Angelo Miguel Antunes Carvalho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13042
+gidNumber: 1013
+homeDirectory: /home/aluno/l13042
+gecos: Angelo Miguel Antunes Carvalho,,,
+userPassword: {crypt}K2jS9cRKCEyYo
+shadowLastChange: 11500
+
+dn: uid=l13056,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13056
+cn: Luis Pedro Parreira Galito Pimenta Almas
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13056
+gidNumber: 1013
+homeDirectory: /home/aluno/l13056
+gecos: Luis Pedro Parreira Galito Pimenta Almas,,,
+userPassword: {crypt}7QtxeOl3fzqyc
+shadowLastChange: 11500
+
+dn: uid=l13061,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13061
+cn: Claudia Sofia Barrocas Janeiro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13061
+gidNumber: 1013
+homeDirectory: /home/aluno/l13061
+gecos: Claudia Sofia Barrocas Janeiro,,,
+userPassword: {crypt}R9MM1vWjw25NY
+shadowLastChange: 11500
+
+dn: uid=l13091,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13091
+cn: Rui Miguel Coelho Martins
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13091
+gidNumber: 1013
+homeDirectory: /home/aluno/l13091
+gecos: Rui Miguel Coelho Martins,,,
+userPassword: {crypt}Vxo5K57ua0.l.
+shadowLastChange: 11500
+
+dn: uid=l13104,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13104
+cn: Fernanda Cristina de Sa Pereira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13104
+gidNumber: 1013
+homeDirectory: /home/aluno/l13104
+gecos: Fernanda Cristina de Sa Pereira,,,
+userPassword: {crypt}.GtIWJ/Cw6Fps
+shadowLastChange: 11500
+
+dn: uid=l13156,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13156
+cn: Rui Alexandre Peixe Eleuterio
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13156
+gidNumber: 1013
+homeDirectory: /home/aluno/l13156
+gecos: Rui Alexandre Peixe Eleuterio,,,
+userPassword: {crypt}JV5A59xKLT58.
+shadowLastChange: 11500
+
+dn: uid=l13166,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13166
+cn: Fausto Carreira Curado
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13166
+gidNumber: 1013
+homeDirectory: /home/aluno/l13166
+gecos: Fausto Carreira Curado,,,
+userPassword: {crypt}rqphoiHwfA/lw
+shadowLastChange: 11500
+
+dn: uid=l13184,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13184
+cn: Nelson Freitas Ramos
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13184
+gidNumber: 1013
+homeDirectory: /home/aluno/l13184
+gecos: Nelson Freitas Ramos,,,
+userPassword: {crypt}HjU5yK8./6Pjk
+shadowLastChange: 11500
+
+dn: uid=l13207,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13207
+cn: Ricardo Jose Teixeira dos Santos
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13207
+gidNumber: 1013
+homeDirectory: /home/aluno/l13207
+gecos: Ricardo Jose Teixeira dos Santos,,,
+userPassword: {crypt}0N5eRB1BdHd1c
+shadowLastChange: 11500
+
+dn: uid=l13214,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13214
+cn: Hugo Manuel Ferreira Rosado
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13214
+gidNumber: 1013
+homeDirectory: /home/aluno/l13214
+gecos: Hugo Manuel Ferreira Rosado,,,
+userPassword: {crypt}8jnTNvqbmR5UY
+shadowLastChange: 11500
+
+dn: uid=l13238,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13238
+cn: Carlos Alberto Oliveira Rosado
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13238
+gidNumber: 1013
+homeDirectory: /home/aluno/l13238
+gecos: Carlos Alberto Oliveira Rosado,,,
+userPassword: {crypt}xM65GzkWJVTtA
+shadowLastChange: 11500
+
+dn: uid=l13249,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13249
+cn: Bruno Ricardo Pereira Goncalves da Costa
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13249
+gidNumber: 1013
+homeDirectory: /home/aluno/l13249
+gecos: Bruno Ricardo Pereira Goncalves da Costa,,,
+userPassword: {crypt}Ben8hRGoPb7ag
+shadowLastChange: 11500
+
+dn: uid=l13250,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13250
+cn: Nuno Filipe Bibes Parreira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13250
+gidNumber: 1013
+homeDirectory: /home/aluno/l13250
+gecos: Nuno Filipe Bibes Parreira,,,
+userPassword: {crypt}wHb.4Ecbl0BhY
+shadowLastChange: 11500
+
+dn: uid=l13272,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13272
+cn: Ana Isabel Nunes Pecurto
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13272
+gidNumber: 1013
+homeDirectory: /home/aluno/l13272
+gecos: Ana Isabel Nunes Pecurto,,,
+userPassword: {crypt}HlhMjNy/VMfXQ
+shadowLastChange: 11500
+
+dn: uid=l13302,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13302
+cn: Antonio Manuel Rolo Chaleta
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13302
+gidNumber: 1013
+homeDirectory: /home/aluno/l13302
+gecos: Antonio Manuel Rolo Chaleta,,,
+userPassword: {crypt}iajsZyfqF7y6E
+shadowLastChange: 11500
+
+dn: uid=l13350,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13350
+cn: Antonio Carlos Ribeiro Pinto
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13350
+gidNumber: 1013
+homeDirectory: /home/aluno/l13350
+gecos: Antonio Carlos Ribeiro Pinto,,,
+userPassword: {crypt}!1Y.weE7j3tfag
+shadowLastChange: 11500
+
+dn: uid=l13361,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13361
+cn: Vitor Jose Alves da Silva dos Santos
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13361
+gidNumber: 1013
+homeDirectory: /home/aluno/l13361
+gecos: Vitor Jose Alves da Silva dos Santos,,,
+userPassword: {crypt}gwGK/bk7KFrgs
+shadowLastChange: 11500
+
+dn: uid=l13365,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13365
+cn: Jaime Joao Caldeira Santos
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13365
+gidNumber: 1013
+homeDirectory: /home/aluno/l13365
+gecos: Jaime Joao Caldeira Santos,,,
+userPassword: {crypt}Yltal4H3DSYIw
+shadowLastChange: 11500
+
+dn: uid=l13457,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13457
+cn: Miguel Tiago Crispim Rosado
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13457
+gidNumber: 1013
+homeDirectory: /home/aluno/l13457
+gecos: Miguel Tiago Crispim Rosado,,,
+userPassword: {crypt}xx.JMASE2ftDY
+shadowLastChange: 11500
+
+dn: uid=l13491,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13491
+cn: Ana Sofia Oliveira Sousa
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13491
+gidNumber: 1013
+homeDirectory: /home/aluno/l13491
+gecos: Ana Sofia Oliveira Sousa,,,
+userPassword: {crypt}XxRj8ifkXmKKI
+shadowLastChange: 11500
+
+dn: uid=l13520,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13520
+cn: Hugo Alexandre Lopes Laibacas
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13520
+gidNumber: 1013
+homeDirectory: /home/aluno/l13520
+gecos: Hugo Alexandre Lopes Laibacas,,,
+userPassword: {crypt}HhOP5NLOeFjek
+shadowLastChange: 11500
+
+dn: uid=l13549,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13549
+cn: Eduardo das Neves Heleno da Silva
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13549
+gidNumber: 1013
+homeDirectory: /home/aluno/l13549
+gecos: Eduardo das Neves Heleno da Silva,,,
+userPassword: {crypt}iyCk1jG1w6IIQ
+shadowLastChange: 11500
+
+dn: uid=l13554,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13554
+cn: Daniel das Neves Heleno da Silva
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13554
+gidNumber: 1013
+homeDirectory: /home/aluno/l13554
+gecos: Daniel das Neves Heleno da Silva,,,
+userPassword: {crypt}epOfv8tLglEGM
+shadowLastChange: 11500
+
+dn: uid=l13563,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13563
+cn: Paulo Ricardo Saraiva Torrao
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13563
+gidNumber: 1013
+homeDirectory: /home/aluno/l13563
+gecos: Paulo Ricardo Saraiva Torrao,,,
+userPassword: {crypt}/FJzuHppnHl4g
+shadowLastChange: 11500
+
+dn: uid=l13564,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13564
+cn: Rui Filipe Curado Bretes Victor
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13564
+gidNumber: 1013
+homeDirectory: /home/aluno/l13564
+gecos: Rui Filipe Curado Bretes Victor,,,
+userPassword: {crypt}tyNWUYKhSTW.w
+shadowLastChange: 11500
+
+dn: uid=l13591,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13591
+cn: Nuno Eduardo Quaresma Morgadinho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13591
+gidNumber: 1013
+homeDirectory: /home/aluno/l13591
+gecos: Nuno Eduardo Quaresma Morgadinho,,,
+userPassword: {crypt}n4yuePq1ubYtY
+shadowLastChange: 11500
+
+dn: uid=l13614,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13614
+cn: Tiago Jose Goncalves Fernandes
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13614
+gidNumber: 1013
+homeDirectory: /home/aluno/l13614
+gecos: Tiago Jose Goncalves Fernandes,,,
+userPassword: {crypt}8Z3qwLMzVZezg
+shadowLastChange: 11500
+
+dn: uid=l13619,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13619
+cn: Goncalo Barrocoso Coelho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13619
+gidNumber: 1013
+homeDirectory: /home/aluno/l13619
+gecos: Goncalo Barrocoso Coelho,,,
+userPassword: {crypt}zgvS39vxSA7E.
+shadowLastChange: 11500
+
+dn: uid=l13629,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13629
+cn: Pedro Miguel Roxo Pinheiro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13629
+gidNumber: 1013
+homeDirectory: /home/aluno/l13629
+gecos: Pedro Miguel Roxo Pinheiro,,,
+userPassword: {crypt}MuCiJip5GQTUs
+shadowLastChange: 11500
+
+dn: uid=l13662,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13662
+cn: Hugo Miguel David Queimado
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13662
+gidNumber: 1013
+homeDirectory: /home/aluno/l13662
+gecos: Hugo Miguel David Queimado,,,
+userPassword: {crypt}l5ttqCE5Sn6WI
+shadowLastChange: 11500
+
+dn: uid=l13678,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13678
+cn: Pedro Manuel Moreira Faria e Silva
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13678
+gidNumber: 1013
+homeDirectory: /home/aluno/l13678
+gecos: Pedro Manuel Moreira Faria e Silva,,,
+userPassword: {crypt}1zyPJSF4cMOvs
+shadowLastChange: 11500
+
+dn: uid=l13757,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13757
+cn: Nuno Rodrigo Coelho Reis
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13757
+gidNumber: 1013
+homeDirectory: /home/aluno/l13757
+gecos: Nuno Rodrigo Coelho Reis,,,
+userPassword: {crypt}GASJ4M7uN0giA
+shadowLastChange: 11500
+
+dn: uid=l13847,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13847
+cn: Vitor Hugo Motrena Duarte
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13847
+gidNumber: 1013
+homeDirectory: /home/aluno/l13847
+gecos: Vitor Hugo Motrena Duarte,,,
+userPassword: {crypt}1eZvmFULreHos
+shadowLastChange: 11500
+
+dn: uid=l13864,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13864
+cn: Marilia da Conceicao Martins Teles
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13864
+gidNumber: 1013
+homeDirectory: /home/aluno/l13864
+gecos: Marilia da Conceicao Martins Teles,,,
+userPassword: {crypt}6lZDp.jd8FOs2
+shadowLastChange: 11500
+
+dn: uid=l13865,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13865
+cn: Nuno Alexandre de Jesus Lopes
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13865
+gidNumber: 1013
+homeDirectory: /home/aluno/l13865
+gecos: Nuno Alexandre de Jesus Lopes,,,
+userPassword: {crypt}0c7q0549Nncfs
+shadowLastChange: 11500
+
+dn: uid=l13870,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13870
+cn: Joao Mario Justino da Silva
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13870
+gidNumber: 1013
+homeDirectory: /home/aluno/l13870
+gecos: Joao Mario Justino da Silva,,,
+userPassword: {crypt}//3OBuEO8wDxY
+shadowLastChange: 11500
+
+dn: uid=l13874,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13874
+cn: Vasco Goncalo Pereira Henriques
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13874
+gidNumber: 1013
+homeDirectory: /home/aluno/l13874
+gecos: Vasco Goncalo Pereira Henriques,,,
+userPassword: {crypt}k7jaEwWpauaME
+shadowLastChange: 11500
+
+dn: uid=l13887,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13887
+cn: Nuno Andre Martins Lopes
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13887
+gidNumber: 1013
+homeDirectory: /home/aluno/l13887
+gecos: Nuno Andre Martins Lopes,,,
+userPassword: {crypt}zKB9yO1nrp.xw
+shadowLastChange: 11500
+
+dn: uid=l13954,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13954
+cn: Joao Pedro Sousa da Costa Silva
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13954
+gidNumber: 1013
+homeDirectory: /home/aluno/l13954
+gecos: Joao Pedro Sousa da Costa Silva,,,
+userPassword: {crypt}IREeeVW6MgFp6
+shadowLastChange: 11500
+
+dn: uid=l13974,ou=People,dc=di,dc=uevora,dc=pt
+uid: l13974
+cn: Ruben Andre de Gomes e Felgueiras Pedro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 13974
+gidNumber: 1013
+homeDirectory: /home/aluno/l13974
+gecos: Ruben Andre de Gomes e Felgueiras Pedro,,,
+userPassword: {crypt}NLAPIoXwHWlv6
+shadowLastChange: 11500
+
+dn: uid=l14066,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14066
+cn: Filipe Jorge Camelo Barrenho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14066
+gidNumber: 1013
+homeDirectory: /home/aluno/l14066
+gecos: Filipe Jorge Camelo Barrenho,,,
+userPassword: {crypt}lztWcxVS8t6jM
+shadowLastChange: 11500
+
+dn: uid=l14067,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14067
+cn: Luis Cristovao Figueiras Vicente Alves Silva
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14067
+gidNumber: 1013
+homeDirectory: /home/aluno/l14067
+gecos: Luis Cristovao Figueiras Vicente Alves Silva,,,
+userPassword: {crypt}..OXKHzG8IumE
+shadowLastChange: 11500
+
+dn: uid=l14068,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14068
+cn: Antonio Miguel Gaspar
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14068
+gidNumber: 1013
+homeDirectory: /home/aluno/l14068
+gecos: Antonio Miguel Gaspar,,,
+userPassword: {crypt}S5D66AfI47/I.
+shadowLastChange: 11500
+
+dn: uid=l14081,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14081
+cn: Nuno Fernando Franco Rosado
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14081
+gidNumber: 1013
+homeDirectory: /home/aluno/l14081
+gecos: Nuno Fernando Franco Rosado,,,
+userPassword: {crypt}22by4eRP2hlbc
+shadowLastChange: 11500
+
+dn: uid=l14103,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14103
+cn: Claudio Francisco Fernandes
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14103
+gidNumber: 1013
+homeDirectory: /home/aluno/l14103
+gecos: Claudio Francisco Fernandes,,,
+userPassword: {crypt}fYYkxuHpiUqwY
+shadowLastChange: 11500
+
+dn: uid=l14154,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14154
+cn: Ana Marina Bandeira Ruela
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14154
+gidNumber: 1013
+homeDirectory: /home/aluno/l14154
+gecos: Ana Marina Bandeira Ruela,,,
+userPassword: {crypt}0QIYBLXCDz6zM
+shadowLastChange: 11500
+
+dn: uid=l14195,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14195
+cn: Olivier Manuel Joao Rodrigues
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14195
+gidNumber: 1013
+homeDirectory: /home/aluno/l14195
+gecos: Olivier Manuel Joao Rodrigues,,,
+userPassword: {crypt}YXry628h1ScE.
+shadowLastChange: 11500
+
+dn: uid=l14214,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14214
+cn: Renato Souto Barreiros Neto Portugal
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14214
+gidNumber: 1013
+homeDirectory: /home/aluno/l14214
+gecos: Renato Souto Barreiros Neto Portugal,,,
+userPassword: {crypt}nzAnsXY/WfUts
+shadowLastChange: 11500
+
+dn: uid=l14259,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14259
+cn: Marcio Ribeiro Nunes
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14259
+gidNumber: 1013
+homeDirectory: /home/aluno/l14259
+gecos: Marcio Ribeiro Nunes,,,
+userPassword: {crypt}8.yM5QGM85WRA
+shadowLastChange: 11500
+
+dn: uid=l14266,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14266
+cn: Jose Carlos Dias Constantino
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14266
+gidNumber: 1013
+homeDirectory: /home/aluno/l14266
+gecos: Jose Carlos Dias Constantino,,,
+userPassword: {crypt}VBMecGOHOZ0z.
+shadowLastChange: 11500
+
+dn: uid=l14271,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14271
+cn: Bruno Venancio Pinto Bernardes
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14271
+gidNumber: 1013
+homeDirectory: /home/aluno/l14271
+gecos: Bruno Venancio Pinto Bernardes,,,
+userPassword: {crypt}rW3apsMUH61n.
+shadowLastChange: 11500
+
+dn: uid=l14282,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14282
+cn: Carlos Manuel Neves Bengala
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14282
+gidNumber: 1013
+homeDirectory: /home/aluno/l14282
+gecos: Carlos Manuel Neves Bengala,,,
+userPassword: {crypt}J.xGr0qty28H2
+shadowLastChange: 11500
+
+dn: uid=l14308,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14308
+cn: Francisco Manuel Calhau Barrocas de Oliveira Lourido
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14308
+gidNumber: 1013
+homeDirectory: /home/aluno/l14308
+gecos: Francisco Manuel Calhau Barrocas de Oliveira Lourido,,,
+userPassword: {crypt}3cFx4yDnf/zvw
+shadowLastChange: 11500
+
+dn: uid=l14328,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14328
+cn: Sergio Miguel Varela Rebola
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14328
+gidNumber: 1013
+homeDirectory: /home/aluno/l14328
+gecos: Sergio Miguel Varela Rebola,,,
+userPassword: {crypt}cUMiCAswzc0fU
+shadowLastChange: 11500
+
+dn: uid=l14334,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14334
+cn: Nuno Manuel Soares Galego
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14334
+gidNumber: 1013
+homeDirectory: /home/aluno/l14334
+gecos: Nuno Manuel Soares Galego,,,
+userPassword: {crypt}T.2Mcy6RjGozc
+shadowLastChange: 11500
+
+dn: uid=l14343,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14343
+cn: Pedro Miguel da Graca Vieira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14343
+gidNumber: 1013
+homeDirectory: /home/aluno/l14343
+gecos: Pedro Miguel da Graca Vieira,,,
+userPassword: {crypt}rPi49TNu2646Y
+shadowLastChange: 11500
+
+dn: uid=l14358,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14358
+cn: Sonia Isabel Pisco Costa
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14358
+gidNumber: 1013
+homeDirectory: /home/aluno/l14358
+gecos: Sonia Isabel Pisco Costa,,,
+userPassword: {crypt}e.rqtULBY8mEo
+shadowLastChange: 11500
+
+dn: uid=l14370,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14370
+cn: Luis Fernando Marcos Simoes
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14370
+gidNumber: 1013
+homeDirectory: /home/aluno/l14370
+gecos: Luis Fernando Marcos Simoes,,,
+userPassword: {crypt}0Gd4F49z64UkU
+shadowLastChange: 11500
+
+dn: uid=l14385,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14385
+cn: Vasco Miguel Chibante Barroso
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14385
+gidNumber: 1013
+homeDirectory: /home/aluno/l14385
+gecos: Vasco Miguel Chibante Barroso,,,
+userPassword: {crypt}1NDNKpEKayz12
+shadowLastChange: 11500
+
+dn: uid=l14429,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14429
+cn: Maria de Fatima Duarte da Costa
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14429
+gidNumber: 1013
+homeDirectory: /home/aluno/l14429
+gecos: Maria de Fatima Duarte da Costa,,,
+userPassword: {crypt}y.yZMGtC77KO.
+shadowLastChange: 11500
+
+dn: uid=l14470,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14470
+cn: Tiago Jose Leal Coelho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14470
+gidNumber: 1013
+homeDirectory: /home/aluno/l14470
+gecos: Tiago Jose Leal Coelho,,,
+userPassword: {crypt}dP.P3caLxSqeM
+shadowLastChange: 11500
+
+dn: uid=l14542,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14542
+cn: Tiago Costa Pinto
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14542
+gidNumber: 1013
+homeDirectory: /home/aluno/l14542
+gecos: Tiago Costa Pinto,,,
+userPassword: {crypt}6/jmIZpTd8fwY
+shadowLastChange: 11500
+
+dn: uid=l14572,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14572
+cn: Daniel Alexandre Galiano Galvoeira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14572
+gidNumber: 1013
+homeDirectory: /home/aluno/l14572
+gecos: Daniel Alexandre Galiano Galvoeira,,,
+userPassword: {crypt}EHZv56OGWjrVA
+shadowLastChange: 11500
+
+dn: uid=l14578,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14578
+cn: Filipe Manuel Fernandes Capucho dos Santos
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14578
+gidNumber: 1013
+homeDirectory: /home/aluno/l14578
+gecos: Filipe Manuel Fernandes Capucho dos Santos,,,
+userPassword: {crypt}cTsHsTXF6B6e.
+shadowLastChange: 11500
+
+dn: uid=l14646,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14646
+cn: Juvenal Pereira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14646
+gidNumber: 1013
+homeDirectory: /home/aluno/l14646
+gecos: Juvenal Pereira,,,
+userPassword: {crypt}4nEx9mwuf4KrA
+shadowLastChange: 11500
+
+dn: uid=l14648,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14648
+cn: Benvindo da Cruz Rocha
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14648
+gidNumber: 1013
+homeDirectory: /home/aluno/l14648
+gecos: Benvindo da Cruz Rocha,,,
+userPassword: {crypt}IVWs0DL70JBRA
+shadowLastChange: 11500
+
+dn: uid=l14663,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14663
+cn: Tomas da Costa Luis Lima
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14663
+gidNumber: 1013
+homeDirectory: /home/aluno/l14663
+gecos: Tomas da Costa Luis Lima,,,
+userPassword: {crypt}1f4ttVGW.TVX2
+shadowLastChange: 11500
+
+dn: uid=l14689,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14689
+cn: Ivo Jorge Nunes Basilio
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14689
+gidNumber: 1013
+homeDirectory: /home/aluno/l14689
+gecos: Ivo Jorge Nunes Basilio,,,
+userPassword: {crypt}I/eEAntxtDsXM
+shadowLastChange: 11500
+
+dn: uid=l14693,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14693
+cn: Ana Isabel Nascimento Pereira Ribeiro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14693
+gidNumber: 1013
+homeDirectory: /home/aluno/l14693
+gecos: Ana Isabel Nascimento Pereira Ribeiro,,,
+userPassword: {crypt}T/Cx8OWNQTuII
+shadowLastChange: 11500
+
+dn: uid=l14705,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14705
+cn: Raul Fernando Justino da Gloria Dias
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14705
+gidNumber: 1013
+homeDirectory: /home/aluno/l14705
+gecos: Raul Fernando Justino da Gloria Dias,,,
+userPassword: {crypt}d/HxTWvq5Bgto
+shadowLastChange: 11500
+
+dn: uid=l14735,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14735
+cn: Fernando Antonio Soares Marcal
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14735
+gidNumber: 1013
+homeDirectory: /home/aluno/l14735
+gecos: Fernando Antonio Soares Marcal,,,
+userPassword: {crypt}IBiYP/jJ0A/uk
+shadowLastChange: 11500
+
+dn: uid=l14738,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14738
+cn: Rui Alexandre Rodrigues Gamito
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14738
+gidNumber: 1013
+homeDirectory: /home/aluno/l14738
+gecos: Rui Alexandre Rodrigues Gamito,,,
+userPassword: {crypt}oSROg/RLe1GFo
+shadowLastChange: 11500
+
+dn: uid=l14741,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14741
+cn: Cristovao dos Santos do Rosario Bacalhau
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14741
+gidNumber: 1013
+homeDirectory: /home/aluno/l14741
+gecos: Cristovao dos Santos do Rosario Bacalhau,,,
+userPassword: {crypt}1NAtfXou3USwk
+shadowLastChange: 11500
+
+dn: uid=l14748,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14748
+cn: Paulo Jorge Salgueiro Falcao Goncalves
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14748
+gidNumber: 1013
+homeDirectory: /home/aluno/l14748
+gecos: Paulo Jorge Salgueiro Falcao Goncalves,,,
+userPassword: {crypt}KLtNSUOrXbrLo
+shadowLastChange: 11500
+
+dn: uid=l14752,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14752
+cn: Pedro Filipe Gomes Fernandes
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14752
+gidNumber: 1013
+homeDirectory: /home/aluno/l14752
+gecos: Pedro Filipe Gomes Fernandes,,,
+userPassword: {crypt}n/7wZM5gRNO3E
+shadowLastChange: 11500
+
+dn: uid=l14769,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14769
+cn: Henrique Miguel Amaral Carreiro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14769
+gidNumber: 1013
+homeDirectory: /home/aluno/l14769
+gecos: Henrique Miguel Amaral Carreiro,,,
+userPassword: {crypt}A.AzQXn2uplXs
+shadowLastChange: 11500
+
+dn: uid=l14771,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14771
+cn: Paulo Daniel Caneira Andrade Pires
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14771
+gidNumber: 1013
+homeDirectory: /home/aluno/l14771
+gecos: Paulo Daniel Caneira Andrade Pires,,,
+userPassword: {crypt}.ZT6jp/9gDMbI
+shadowLastChange: 11500
+
+dn: uid=l14772,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14772
+cn: Carlos Manuel Pereira Cardoso
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14772
+gidNumber: 1013
+homeDirectory: /home/aluno/l14772
+gecos: Carlos Manuel Pereira Cardoso,,,
+userPassword: {crypt}l92QwL1lbXg4o
+shadowLastChange: 11500
+
+dn: uid=l14774,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14774
+cn: Ines Costa Rodrigues
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14774
+gidNumber: 1013
+homeDirectory: /home/aluno/l14774
+gecos: Ines Costa Rodrigues,,,
+userPassword: {crypt}iJ93pBGkhQch.
+shadowLastChange: 11500
+
+dn: uid=l14777,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14777
+cn: Paulo Jorge Piteira Campino
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14777
+gidNumber: 1013
+homeDirectory: /home/aluno/l14777
+gecos: Paulo Jorge Piteira Campino,,,
+userPassword: {crypt}TZya8ln3Nqf6I
+shadowLastChange: 11500
+
+dn: uid=l14881,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14881
+cn: Nuno Miguel Castelinho Alexandre
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14881
+gidNumber: 1013
+homeDirectory: /home/aluno/l14881
+gecos: Nuno Miguel Castelinho Alexandre,,,
+userPassword: {crypt}R0PHTRdzyPkH6
+shadowLastChange: 11500
+
+dn: uid=l14887,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14887
+cn: Manuel Joaquim Monteiro Ferreira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14887
+gidNumber: 1013
+homeDirectory: /home/aluno/l14887
+gecos: Manuel Joaquim Monteiro Ferreira,,,
+userPassword: {crypt}RCUK4IAq8gYZY
+shadowLastChange: 11500
+
+dn: uid=l14899,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14899
+cn: Nuno Filipe Coelho Pereira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14899
+gidNumber: 1013
+homeDirectory: /home/aluno/l14899
+gecos: Nuno Filipe Coelho Pereira,,,
+userPassword: {crypt}g0f41kQwMiHvk
+shadowLastChange: 11500
+
+dn: uid=l14909,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14909
+cn: Ana Margarida Pereira dos Santos Aires
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14909
+gidNumber: 1013
+homeDirectory: /home/aluno/l14909
+gecos: Ana Margarida Pereira dos Santos Aires,,,
+userPassword: {crypt}qs5DyrgK17Mn.
+shadowLastChange: 11500
+
+dn: uid=l14912,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14912
+cn: Claudio Nuno Viegas Menezes
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14912
+gidNumber: 1013
+homeDirectory: /home/aluno/l14912
+gecos: Claudio Nuno Viegas Menezes,,,
+userPassword: {crypt}wAJx8qf39vgEY
+shadowLastChange: 11500
+
+dn: uid=l14923,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14923
+cn: Cesar Augusto Veiga Baptista
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14923
+gidNumber: 1013
+homeDirectory: /home/aluno/l14923
+gecos: Cesar Augusto Veiga Baptista,,,
+userPassword: {crypt}r0EcUAoINSISQ
+shadowLastChange: 11500
+
+dn: uid=l14948,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14948
+cn: Jose Manuel Cobica Duarte
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14948
+gidNumber: 1013
+homeDirectory: /home/aluno/l14948
+gecos: Jose Manuel Cobica Duarte,,,
+userPassword: {crypt}0BIoTb96jFhfI
+shadowLastChange: 11500
+
+dn: uid=l14974,ou=People,dc=di,dc=uevora,dc=pt
+uid: l14974
+cn: Ricardo Manuel Marcolino Jorge
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 14974
+gidNumber: 1013
+homeDirectory: /home/aluno/l14974
+gecos: Ricardo Manuel Marcolino Jorge,,,
+userPassword: {crypt}41FhiTNLLsHdw
+shadowLastChange: 11500
+
+dn: uid=l15059,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15059
+cn: Helder Filipe Correia Antunes
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15059
+gidNumber: 1013
+homeDirectory: /home/aluno/l15059
+gecos: Helder Filipe Correia Antunes,,,
+userPassword: {crypt}I1qCdi6tDoeFw
+shadowLastChange: 11500
+
+dn: uid=l15061,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15061
+cn: Joao Ricardo Godinho de Carvalho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15061
+gidNumber: 1013
+homeDirectory: /home/aluno/l15061
+gecos: Joao Ricardo Godinho de Carvalho,,,
+userPassword: {crypt}U1tN2AU8a8kNM
+shadowLastChange: 11500
+
+dn: uid=l15063,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15063
+cn: Hugo Alexandre de Almeida Costa
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15063
+gidNumber: 1013
+homeDirectory: /home/aluno/l15063
+gecos: Hugo Alexandre de Almeida Costa,,,
+userPassword: {crypt}Iatvu.7U/K3dg
+shadowLastChange: 11500
+
+dn: uid=l15084,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15084
+cn: Goncalo Jose Louro Cardoso
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15084
+gidNumber: 1013
+homeDirectory: /home/aluno/l15084
+gecos: Goncalo Jose Louro Cardoso,,,
+userPassword: {crypt}2w1UG.xriDeaQ
+shadowLastChange: 11500
+
+dn: uid=l15116,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15116
+cn: Nuno Alexandre da Graca Carvalho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15116
+gidNumber: 1013
+homeDirectory: /home/aluno/l15116
+gecos: Nuno Alexandre da Graca Carvalho,,,
+userPassword: {crypt}x/idRfqa4/el6
+shadowLastChange: 11500
+
+dn: uid=l15125,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15125
+cn: Dora Alexandra da Silva Pinheiro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15125
+gidNumber: 1013
+homeDirectory: /home/aluno/l15125
+gecos: Dora Alexandra da Silva Pinheiro,,,
+userPassword: {crypt}HLyDhRDiiYtgc
+shadowLastChange: 11500
+
+dn: uid=l15143,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15143
+cn: Carlos Manuel Neto Gomes
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15143
+gidNumber: 1013
+homeDirectory: /home/aluno/l15143
+gecos: Carlos Manuel Neto Gomes,,,
+userPassword: {crypt}/2qtJbbUeBEG6
+shadowLastChange: 11500
+
+dn: uid=l15151,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15151
+cn: Andre Guerreiro Ramos
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15151
+gidNumber: 1013
+homeDirectory: /home/aluno/l15151
+gecos: Andre Guerreiro Ramos,,,
+userPassword: {crypt}uBihVUh/EfUxo
+shadowLastChange: 11500
+
+dn: uid=l15165,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15165
+cn: Nelson Pereira de Brito
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15165
+gidNumber: 1013
+homeDirectory: /home/aluno/l15165
+gecos: Nelson Pereira de Brito,,,
+userPassword: {crypt}luPSCTabMFOtY
+shadowLastChange: 11500
+
+dn: uid=l15210,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15210
+cn: David Soares Batista
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15210
+gidNumber: 1013
+homeDirectory: /home/aluno/l15210
+gecos: David Soares Batista,,,
+userPassword: {crypt}fcRiikr8ENrCc
+shadowLastChange: 11500
+
+dn: uid=l15243,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15243
+cn: Tiago Miguel da Conceicao Bilou
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15243
+gidNumber: 1013
+homeDirectory: /home/aluno/l15243
+gecos: Tiago Miguel da Conceicao Bilou,,,
+userPassword: {crypt}pk4s1bMVRZOtw
+shadowLastChange: 11500
+
+dn: uid=l15267,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15267
+cn: Francisco Eduardo Oliveira Espada
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15267
+gidNumber: 1013
+homeDirectory: /home/aluno/l15267
+gecos: Francisco Eduardo Oliveira Espada,,,
+userPassword: {crypt}O2heFLqz2p932
+shadowLastChange: 11500
+
+dn: uid=l15278,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15278
+cn: Sergio Miguel Barata Dias
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15278
+gidNumber: 1013
+homeDirectory: /home/aluno/l15278
+gecos: Sergio Miguel Barata Dias,,,
+userPassword: {crypt}i2TVtlxRZHe1w
+shadowLastChange: 11500
+
+dn: uid=l15296,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15296
+cn: Samuel Filipe Pereira Domingos
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15296
+gidNumber: 1013
+homeDirectory: /home/aluno/l15296
+gecos: Samuel Filipe Pereira Domingos,,,
+userPassword: {crypt}s2HbbNPPG3OIE
+shadowLastChange: 11500
+
+dn: uid=l15309,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15309
+cn: Joaquim Miguel Galhardo Boeiro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15309
+gidNumber: 1013
+homeDirectory: /home/aluno/l15309
+gecos: Joaquim Miguel Galhardo Boeiro,,,
+userPassword: {crypt}AepMdqVkW1QrE
+shadowLastChange: 11500
+
+dn: uid=l15314,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15314
+cn: Hugo Renato Rosa Moita
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15314
+gidNumber: 1013
+homeDirectory: /home/aluno/l15314
+gecos: Hugo Renato Rosa Moita,,,
+userPassword: {crypt}13wyHDnl1Q896
+shadowLastChange: 11500
+
+dn: uid=l15319,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15319
+cn: Nuno Alexandre Ganhao Pires
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15319
+gidNumber: 1013
+homeDirectory: /home/aluno/l15319
+gecos: Nuno Alexandre Ganhao Pires,,,
+userPassword: {crypt}C3rWnYAwcSpsA
+shadowLastChange: 11500
+
+dn: uid=l15412,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15412
+cn: Fabio Andre Beringel Belga
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15412
+gidNumber: 1013
+homeDirectory: /home/aluno/l15412
+gecos: Fabio Andre Beringel Belga,,,
+userPassword: {crypt}N3GUf1YlbHwOo
+shadowLastChange: 11500
+
+dn: uid=l15437,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15437
+cn: Ana Rita de Brito da Graca Serrano Ferreira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15437
+gidNumber: 1013
+homeDirectory: /home/aluno/l15437
+gecos: Ana Rita de Brito da Graca Serrano Ferreira,,,
+userPassword: {crypt}X3BgsvfayOM4U
+shadowLastChange: 11500
+
+dn: uid=l15447,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15447
+cn: Jose Manuel Pereira Torres de Medeiros Chaves
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15447
+gidNumber: 1013
+homeDirectory: /home/aluno/l15447
+gecos: Jose Manuel Pereira Torres de Medeiros Chaves,,,
+userPassword: {crypt}DC2uKtecyNbhM
+shadowLastChange: 11500
+
+dn: uid=l15457,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15457
+cn: Nelson Nascimento Leal
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15457
+gidNumber: 1013
+homeDirectory: /home/aluno/l15457
+gecos: Nelson Nascimento Leal,,,
+userPassword: {crypt}j3Tmzx1EWO5dY
+shadowLastChange: 11500
+
+dn: uid=l15466,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15466
+cn: Leonel Joaquim Curto Murraceira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15466
+gidNumber: 1013
+homeDirectory: /home/aluno/l15466
+gecos: Leonel Joaquim Curto Murraceira,,,
+userPassword: {crypt}t3fiCZovEHbA6
+shadowLastChange: 11500
+
+dn: uid=l15475,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15475
+cn: Natanael Filipe Abrantes Vidal
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15475
+gidNumber: 1013
+homeDirectory: /home/aluno/l15475
+gecos: Natanael Filipe Abrantes Vidal,,,
+userPassword: {crypt}14AARXAlAnUGY
+shadowLastChange: 11500
+
+dn: uid=l15518,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15518
+cn: Joao Torres Paulo Duarte
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15518
+gidNumber: 1013
+homeDirectory: /home/aluno/l15518
+gecos: Joao Torres Paulo Duarte,,,
+userPassword: {crypt}kPkdSR8yUGUvw
+shadowLastChange: 11500
+
+dn: uid=l15581,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15581
+cn: Marco Filipe Vidal Afonso
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15581
+gidNumber: 1013
+homeDirectory: /home/aluno/l15581
+gecos: Marco Filipe Vidal Afonso,,,
+userPassword: {crypt}hxElQApSxPZOg
+shadowLastChange: 11500
+
+dn: uid=l15587,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15587
+cn: Ana Rosa Chaveiro Diniz
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15587
+gidNumber: 1013
+homeDirectory: /home/aluno/l15587
+gecos: Ana Rosa Chaveiro Diniz,,,
+userPassword: {crypt}wsj7PIWL1T8Hc
+shadowLastChange: 11500
+
+dn: uid=l15589,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15589
+cn: Ricardo Mariano dos Reis Roquete
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15589
+gidNumber: 1013
+homeDirectory: /home/aluno/l15589
+gecos: Ricardo Mariano dos Reis Roquete,,,
+userPassword: {crypt}C40zEmDdzRS6A
+shadowLastChange: 11500
+
+dn: uid=l15597,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15597
+cn: Agostinho Manuel Garcia Monteiro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15597
+gidNumber: 1013
+homeDirectory: /home/aluno/l15597
+gecos: Agostinho Manuel Garcia Monteiro,,,
+userPassword: {crypt}M4CtYAs2KjR8U
+shadowLastChange: 11500
+
+dn: uid=l15610,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15610
+cn: Eduardo Jose Laranjinho Figueira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15610
+gidNumber: 1013
+homeDirectory: /home/aluno/l15610
+gecos: Eduardo Jose Laranjinho Figueira,,,
+userPassword: {crypt}whWWRWik38B.g
+shadowLastChange: 11500
+
+dn: uid=l15615,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15615
+cn: Manuel Antonio Azeitona Raposo
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15615
+gidNumber: 1013
+homeDirectory: /home/aluno/l15615
+gecos: Manuel Antonio Azeitona Raposo,,,
+userPassword: {crypt}qLmV3ZyoCo3ZY
+shadowLastChange: 11500
+
+dn: uid=l15618,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15618
+cn: Antonio Joaquim Viana Manilhas
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15618
+gidNumber: 1013
+homeDirectory: /home/aluno/l15618
+gecos: Antonio Joaquim Viana Manilhas,,,
+userPassword: {crypt}AEhiEEZHG9H6I
+shadowLastChange: 11500
+
+dn: uid=l15620,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15620
+cn: Rui Rodrigo Coelho da Silva
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15620
+gidNumber: 1013
+homeDirectory: /home/aluno/l15620
+gecos: Rui Rodrigo Coelho da Silva,,,
+userPassword: {crypt}Y4MyNfSPUy.iM
+shadowLastChange: 11500
+
+dn: uid=l15635,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15635
+cn: Ricardo Baptista Nave dos Santos
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15635
+gidNumber: 1013
+homeDirectory: /home/aluno/l15635
+gecos: Ricardo Baptista Nave dos Santos,,,
+userPassword: {crypt}2tqqIjyAeEja2
+shadowLastChange: 11500
+
+dn: uid=l15652,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15652
+cn: Jose Miguel Piteira Marmelada
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15652
+gidNumber: 1013
+homeDirectory: /home/aluno/l15652
+gecos: Jose Miguel Piteira Marmelada,,,
+userPassword: {crypt}PbmdC.VxNPgA2
+shadowLastChange: 11500
+
+dn: uid=l15674,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15674
+cn: Pedro Miguel Pavao da Cerveira Pinto
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15674
+gidNumber: 1013
+homeDirectory: /home/aluno/l15674
+gecos: Pedro Miguel Pavao da Cerveira Pinto,,,
+userPassword: {crypt}5DUvp5mQnFqtA
+shadowLastChange: 11500
+
+dn: uid=l15682,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15682
+cn: Bruno Manuel Fernandes Domingues
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15682
+gidNumber: 1013
+homeDirectory: /home/aluno/l15682
+gecos: Bruno Manuel Fernandes Domingues,,,
+userPassword: {crypt}lg8FNrmyarSX.
+shadowLastChange: 11500
+
+dn: uid=l15710,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15710
+cn: Amilcar Francisco Buanga NZau
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15710
+gidNumber: 1013
+homeDirectory: /home/aluno/l15710
+gecos: Amilcar Francisco Buanga NZau,,,
+userPassword: {crypt}RihnD2Qrhc5NI
+shadowLastChange: 11500
+
+dn: uid=l15884,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15884
+cn: Paulo Jorge Fidalgo Oliveira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15884
+gidNumber: 1013
+homeDirectory: /home/aluno/l15884
+gecos: Paulo Jorge Fidalgo Oliveira,,,
+userPassword: {crypt}6/1LPmTMIu3CU
+shadowLastChange: 11500
+
+dn: uid=l15896,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15896
+cn: Josue David Almeida Duarte Delgado
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15896
+gidNumber: 1013
+homeDirectory: /home/aluno/l15896
+gecos: Josue David Almeida Duarte Delgado,,,
+userPassword: {crypt}WffBVkUBeie1k
+shadowLastChange: 11500
+
+dn: uid=l15907,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15907
+cn: Nuno Alvares de Sa Potes Cordovil
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15907
+gidNumber: 1013
+homeDirectory: /home/aluno/l15907
+gecos: Nuno Alvares de Sa Potes Cordovil,,,
+userPassword: {crypt}t4/jxl8ZA.6/Y
+shadowLastChange: 11500
+
+dn: uid=l15913,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15913
+cn: Nuno Manuel Pateiro Marrafa
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15913
+gidNumber: 1013
+homeDirectory: /home/aluno/l15913
+gecos: Nuno Manuel Pateiro Marrafa,,,
+userPassword: {crypt}MlfXwRLJ7PxQI
+shadowLastChange: 11500
+
+dn: uid=l15926,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15926
+cn: Hugo Miguel Barroso da Costa
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15926
+gidNumber: 1013
+homeDirectory: /home/aluno/l15926
+gecos: Hugo Miguel Barroso da Costa,,,
+userPassword: {crypt}E5KQIIc1iAAD.
+shadowLastChange: 11500
+
+dn: uid=l15971,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15971
+cn: Joao Vicente Ferreira Espiguinha
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15971
+gidNumber: 1013
+homeDirectory: /home/aluno/l15971
+gecos: Joao Vicente Ferreira Espiguinha,,,
+userPassword: {crypt}m5VBckHexH2KQ
+shadowLastChange: 11500
+
+dn: uid=l15979,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15979
+cn: Jose Antonio Pestana Caixeiro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15979
+gidNumber: 1013
+homeDirectory: /home/aluno/l15979
+gecos: Jose Antonio Pestana Caixeiro,,,
+userPassword: {crypt}x57RdBIxV0t9E
+shadowLastChange: 11500
+
+dn: uid=l15985,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15985
+cn: Bruno Manuel Domingues do Brito
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15985
+gidNumber: 1013
+homeDirectory: /home/aluno/l15985
+gecos: Bruno Manuel Domingues do Brito,,,
+userPassword: {crypt}dsg0VQh.XPR7.
+shadowLastChange: 11500
+
+dn: uid=l15992,ou=People,dc=di,dc=uevora,dc=pt
+uid: l15992
+cn: Nuno Miguel Goncalves Bonzinho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 15992
+gidNumber: 1013
+homeDirectory: /home/aluno/l15992
+gecos: Nuno Miguel Goncalves Bonzinho,,,
+userPassword: {crypt}66btfq6iZNOkk
+shadowLastChange: 11500
+
+dn: uid=l16005,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16005
+cn: Patricia Sofia Rosado Elias
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16005
+gidNumber: 1013
+homeDirectory: /home/aluno/l16005
+gecos: Patricia Sofia Rosado Elias,,,
+userPassword: {crypt}H6y.WVVcnX4b.
+shadowLastChange: 11500
+
+dn: uid=l16009,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16009
+cn: Ricardo Barata Monteiro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16009
+gidNumber: 1013
+homeDirectory: /home/aluno/l16009
+gecos: Ricardo Barata Monteiro,,,
+userPassword: {crypt}X6ZmCoFE4pa0k
+shadowLastChange: 11500
+
+dn: uid=l16055,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16055
+cn: Jose Filipe das Neves Aboim de Barros
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16055
+gidNumber: 1013
+homeDirectory: /home/aluno/l16055
+gecos: Jose Filipe das Neves Aboim de Barros,,,
+userPassword: {crypt}j6dWe2eGTy35w
+shadowLastChange: 11500
+
+dn: uid=l16076,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16076
+cn: Ana Alexandra Barreiras Felix
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16076
+gidNumber: 1013
+homeDirectory: /home/aluno/l16076
+gecos: Ana Alexandra Barreiras Felix,,,
+userPassword: {crypt}WytHDsYTvWVIk
+shadowLastChange: 11500
+
+dn: uid=l16083,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16083
+cn: Paulo Ricardo Lopes Andre
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16083
+gidNumber: 1013
+homeDirectory: /home/aluno/l16083
+gecos: Paulo Ricardo Lopes Andre,,,
+userPassword: {crypt}C5ocQ4Q1TM9d6
+shadowLastChange: 11500
+
+dn: uid=l16114,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16114
+cn: Heitor Carlos Tavares Carvalho Narciso
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16114
+gidNumber: 1013
+homeDirectory: /home/aluno/l16114
+gecos: Heitor Carlos Tavares Carvalho Narciso,,,
+userPassword: {crypt}943s24gabjlns
+shadowLastChange: 11500
+
+dn: uid=l16141,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16141
+cn: Daniela Oliveira Campos
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16141
+gidNumber: 1013
+homeDirectory: /home/aluno/l16141
+gecos: Daniela Oliveira Campos,,,
+userPassword: {crypt}.SJsbPeYaYtyU
+shadowLastChange: 11500
+
+dn: uid=l16152,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16152
+cn: Antonio Miguel Costa Santana
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16152
+gidNumber: 1013
+homeDirectory: /home/aluno/l16152
+gecos: Antonio Miguel Costa Santana,,,
+userPassword: {crypt}1hnL2qWQdxcFU
+shadowLastChange: 11500
+
+dn: uid=l16166,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16166
+cn: Ricardo Jorge Martins Serra
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16166
+gidNumber: 1013
+homeDirectory: /home/aluno/l16166
+gecos: Ricardo Jorge Martins Serra,,,
+userPassword: {crypt}8tvFWwEwWiJnI
+shadowLastChange: 11500
+
+dn: uid=l16174,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16174
+cn: Carlos Manuel Azenha Figueiredo
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16174
+gidNumber: 1013
+homeDirectory: /home/aluno/l16174
+gecos: Carlos Manuel Azenha Figueiredo,,,
+userPassword: {crypt}M711qt9w2rlJg
+shadowLastChange: 11500
+
+dn: uid=l16224,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16224
+cn: Fernando Jorge Rodrigues Pinto Angelo
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16224
+gidNumber: 1013
+homeDirectory: /home/aluno/l16224
+gecos: Fernando Jorge Rodrigues Pinto Angelo,,,
+userPassword: {crypt}N9tGrDpbpUYTQ
+shadowLastChange: 11500
+
+dn: uid=l16260,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16260
+cn: Miguel Tiago Marques de Carvalho Parreira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16260
+gidNumber: 1013
+homeDirectory: /home/aluno/l16260
+gecos: Miguel Tiago Marques de Carvalho Parreira,,,
+userPassword: {crypt}RLVc7O2CLPKe2
+shadowLastChange: 11500
+
+dn: uid=l16306,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16306
+cn: Luis Carlos Anselmo Galhofas
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16306
+gidNumber: 1013
+homeDirectory: /home/aluno/l16306
+gecos: Luis Carlos Anselmo Galhofas,,,
+userPassword: {crypt}B.Mct9fJLyTuU
+shadowLastChange: 11500
+
+dn: uid=l16331,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16331
+cn: Bruno Alves Teixeira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16331
+gidNumber: 1013
+homeDirectory: /home/aluno/l16331
+gecos: Bruno Alves Teixeira,,,
+userPassword: {crypt}B/Qwe3sQVUQ2I
+shadowLastChange: 11500
+
+dn: uid=l16335,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16335
+cn: Thiago Joao Martins Figueiredo
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16335
+gidNumber: 1013
+homeDirectory: /home/aluno/l16335
+gecos: Thiago Joao Martins Figueiredo,,,
+userPassword: {crypt}/eAksyxAiG1jM
+shadowLastChange: 11500
+
+dn: uid=l16338,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16338
+cn: Rui Mario da Silva Machado
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16338
+gidNumber: 1013
+homeDirectory: /home/aluno/l16338
+gecos: Rui Mario da Silva Machado,,,
+userPassword: {crypt}Qusrn0MXoqckc
+shadowLastChange: 11500
+
+dn: uid=l16345,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16345
+cn: Nuno Filipe Ferreira Mesquita
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16345
+gidNumber: 1013
+homeDirectory: /home/aluno/l16345
+gecos: Nuno Filipe Ferreira Mesquita,,,
+userPassword: {crypt}k57P84RLP6tz6
+shadowLastChange: 11500
+
+dn: uid=l16348,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16348
+cn: Manuel Maria Botelho de Gusmao Sarreira Cid
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16348
+gidNumber: 1013
+homeDirectory: /home/aluno/l16348
+gecos: Manuel Maria Botelho de Gusmao Sarreira Cid,,,
+userPassword: {crypt}0a.VfOnDcwzaY
+shadowLastChange: 11500
+
+dn: uid=l16350,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16350
+cn: Luis Miguel Rosa dos Santos Reis
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16350
+gidNumber: 1013
+homeDirectory: /home/aluno/l16350
+gecos: Luis Miguel Rosa dos Santos Reis,,,
+userPassword: {crypt}X9P8GMwydxzrM
+shadowLastChange: 11500
+
+dn: uid=l16372,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16372
+cn: Luis Miguel Matias Mocho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16372
+gidNumber: 1013
+homeDirectory: /home/aluno/l16372
+gecos: Luis Miguel Matias Mocho,,,
+userPassword: {crypt}i7ezFcYiXIpAg
+shadowLastChange: 11500
+
+dn: uid=l16411,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16411
+cn: Joao Paulo Ferro Pelica
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16411
+gidNumber: 1013
+homeDirectory: /home/aluno/l16411
+gecos: Joao Paulo Ferro Pelica,,,
+userPassword: {crypt}t7VlgAYjQFkiM
+shadowLastChange: 11500
+
+dn: uid=l16420,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16420
+cn: Joao Carlos Mateus Pala de Oliveira Pereira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16420
+gidNumber: 1013
+homeDirectory: /home/aluno/l16420
+gecos: Joao Carlos Mateus Pala de Oliveira Pereira,,,
+userPassword: {crypt}38fKK9wfl.xyA
+shadowLastChange: 11500
+
+dn: uid=l16433,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16433
+cn: Pedro Miguel Raminhos Brito
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16433
+gidNumber: 1013
+homeDirectory: /home/aluno/l16433
+gecos: Pedro Miguel Raminhos Brito,,,
+userPassword: {crypt}He04HtPazUJrc
+shadowLastChange: 11500
+
+dn: uid=l16439,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16439
+cn: Joao Vasco Zurzica Reis
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16439
+gidNumber: 1013
+homeDirectory: /home/aluno/l16439
+gecos: Joao Vasco Zurzica Reis,,,
+userPassword: {crypt}Ekl9CL0lGhxeE
+shadowLastChange: 11500
+
+dn: uid=l16447,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16447
+cn: Sergio Rafael Trindade Marques
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16447
+gidNumber: 1013
+homeDirectory: /home/aluno/l16447
+gecos: Sergio Rafael Trindade Marques,,,
+userPassword: {crypt}g.zKD4/HYXAG6
+shadowLastChange: 11500
+
+dn: uid=l16462,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16462
+cn: Rui Pedro Andronico Cabete
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16462
+gidNumber: 1013
+homeDirectory: /home/aluno/l16462
+gecos: Rui Pedro Andronico Cabete,,,
+userPassword: {crypt}bqRWoktV9WI4A
+shadowLastChange: 11500
+
+dn: uid=l16508,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16508
+cn: Ricardo Jorge Afonso Couchinho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16508
+gidNumber: 1013
+homeDirectory: /home/aluno/l16508
+gecos: Ricardo Jorge Afonso Couchinho,,,
+userPassword: {crypt}O8kkbqwqZtV7I
+shadowLastChange: 11500
+
+dn: uid=l16516,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16516
+cn: Rui Daniel Cravide Palma
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16516
+gidNumber: 1013
+homeDirectory: /home/aluno/l16516
+gecos: Rui Daniel Cravide Palma,,,
+userPassword: {crypt}HKrrHQHbYNfU.
+shadowLastChange: 11500
+
+dn: uid=l16533,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16533
+cn: Ricardo Manuel Garcia Pombinho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16533
+gidNumber: 1013
+homeDirectory: /home/aluno/l16533
+gecos: Ricardo Manuel Garcia Pombinho,,,
+userPassword: {crypt}j8bm0N6r33C.E
+shadowLastChange: 11500
+
+dn: uid=l16551,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16551
+cn: Lucia Isabel Severino Calado
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16551
+gidNumber: 1013
+homeDirectory: /home/aluno/l16551
+gecos: Lucia Isabel Severino Calado,,,
+userPassword: {crypt}SgOCAkQPbV5zU
+shadowLastChange: 11500
+
+dn: uid=l16556,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16556
+cn: Pedro Miguel Romano Ivens Morgado Belo
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16556
+gidNumber: 1013
+homeDirectory: /home/aluno/l16556
+gecos: Pedro Miguel Romano Ivens Morgado Belo,,,
+userPassword: {crypt}u8DiovcjpKLHU
+shadowLastChange: 11500
+
+dn: uid=l16579,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16579
+cn: Joaquim Jorge Rodrigues Silvestre
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16579
+gidNumber: 1013
+homeDirectory: /home/aluno/l16579
+gecos: Joaquim Jorge Rodrigues Silvestre,,,
+userPassword: {crypt}o.fyPdnWmO4iw
+shadowLastChange: 11500
+
+dn: uid=l16584,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16584
+cn: Noel Jorge Martins Ferreira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16584
+gidNumber: 1013
+homeDirectory: /home/aluno/l16584
+gecos: Noel Jorge Martins Ferreira,,,
+userPassword: {crypt}PeavTRhDRBXng
+shadowLastChange: 11500
+
+dn: uid=l16622,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16622
+cn: Rui Miguel Baptista Madail
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16622
+gidNumber: 1013
+homeDirectory: /home/aluno/l16622
+gecos: Rui Miguel Baptista Madail,,,
+userPassword: {crypt}3lvXALvaCklNE
+shadowLastChange: 11500
+
+dn: uid=l16629,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16629
+cn: Rui Pedro Percheiro Salvado
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16629
+gidNumber: 1013
+homeDirectory: /home/aluno/l16629
+gecos: Rui Pedro Percheiro Salvado,,,
+userPassword: {crypt}.AT9lXWrzS2f.
+shadowLastChange: 11500
+
+dn: uid=l16631,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16631
+cn: Luis Miguel Carvalho Correia Pedro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16631
+gidNumber: 1013
+homeDirectory: /home/aluno/l16631
+gecos: Luis Miguel Carvalho Correia Pedro,,,
+userPassword: {crypt}IwjE.4poAINfE
+shadowLastChange: 11500
+
+dn: uid=l16658,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16658
+cn: Vitor Bruno Malveiro Soares
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16658
+gidNumber: 1013
+homeDirectory: /home/aluno/l16658
+gecos: Vitor Bruno Malveiro Soares,,,
+userPassword: {crypt}Q9DtwBwfqjRr.
+shadowLastChange: 11500
+
+dn: uid=l16663,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16663
+cn: Sergio Jose Figueira do Rosario
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16663
+gidNumber: 1013
+homeDirectory: /home/aluno/l16663
+gecos: Sergio Jose Figueira do Rosario,,,
+userPassword: {crypt}a9rgzX3BUAl2A
+shadowLastChange: 11500
+
+dn: uid=l16692,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16692
+cn: Henrique Jorge Nunes Tavares dos Santos Fontes
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16692
+gidNumber: 1013
+homeDirectory: /home/aluno/l16692
+gecos: Henrique Jorge Nunes Tavares dos Santos Fontes,,,
+userPassword: {crypt}l9J0b5vXnsIDQ
+shadowLastChange: 11500
+
+dn: uid=l16699,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16699
+cn: Ricardo Jorge Fidalgo Machado
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16699
+gidNumber: 1013
+homeDirectory: /home/aluno/l16699
+gecos: Ricardo Jorge Fidalgo Machado,,,
+userPassword: {crypt}.Q9Bu/Spr65oQ
+shadowLastChange: 11500
+
+dn: uid=l16745,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16745
+cn: Joao Silveiro Cravidao
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16745
+gidNumber: 1013
+homeDirectory: /home/aluno/l16745
+gecos: Joao Silveiro Cravidao,,,
+userPassword: {crypt}gg4x.PZT2gNAY
+shadowLastChange: 11500
+
+dn: uid=l16756,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16756
+cn: Antonio Manuel Filipe de Matos Pinto
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16756
+gidNumber: 1013
+homeDirectory: /home/aluno/l16756
+gecos: Antonio Manuel Filipe de Matos Pinto,,,
+userPassword: {crypt}Etk7ypVRGPupQ
+shadowLastChange: 11500
+
+dn: uid=l16757,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16757
+cn: Hugo Miguel Igreja Galvao
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16757
+gidNumber: 1013
+homeDirectory: /home/aluno/l16757
+gecos: Hugo Miguel Igreja Galvao,,,
+userPassword: {crypt}LtU40UnAZmQDE
+shadowLastChange: 11500
+
+dn: uid=l16791,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16791
+cn: Susana Parreira Calito Pimenta Almas
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16791
+gidNumber: 1013
+homeDirectory: /home/aluno/l16791
+gecos: Susana Parreira Calito Pimenta Almas,,,
+userPassword: {crypt}.2NKOt4J5u10A
+shadowLastChange: 11500
+
+dn: uid=l16849,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16849
+cn: Cesar Filipe Medeiros do Couto
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16849
+gidNumber: 1013
+homeDirectory: /home/aluno/l16849
+gecos: Cesar Filipe Medeiros do Couto,,,
+userPassword: {crypt}dylN5ovl/Tzww
+shadowLastChange: 11500
+
+dn: uid=l16904,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16904
+cn: Luis Miguel Guerra Caeiro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16904
+gidNumber: 1013
+homeDirectory: /home/aluno/l16904
+gecos: Luis Miguel Guerra Caeiro,,,
+userPassword: {crypt}Sti8nodBe.thE
+shadowLastChange: 11500
+
+dn: uid=l16919,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16919
+cn: Antonio Miguel da Cunha Ribeiro Simoes Marques
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16919
+gidNumber: 1013
+homeDirectory: /home/aluno/l16919
+gecos: Antonio Miguel da Cunha Ribeiro Simoes Marques,,,
+userPassword: {crypt}HAX/.RBCFNkjg
+shadowLastChange: 11500
+
+dn: uid=l16951,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16951
+cn: Luciano Miguel Pequito Sadio
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16951
+gidNumber: 1013
+homeDirectory: /home/aluno/l16951
+gecos: Luciano Miguel Pequito Sadio,,,
+userPassword: {crypt}RAPba.35q4n.E
+shadowLastChange: 11500
+
+dn: uid=l16953,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16953
+cn: Dinis Gaspar Miranda Pereira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16953
+gidNumber: 1013
+homeDirectory: /home/aluno/l16953
+gecos: Dinis Gaspar Miranda Pereira,,,
+userPassword: {crypt}zOpF09lcUdHY.
+shadowLastChange: 11500
+
+dn: uid=l16955,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16955
+cn: Luis Miguel Correia Mendes
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16955
+gidNumber: 1013
+homeDirectory: /home/aluno/l16955
+gecos: Luis Miguel Correia Mendes,,,
+userPassword: {crypt}pAiav6DtugJVw
+shadowLastChange: 11500
+
+dn: uid=l16969,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16969
+cn: Alexandre Palma Moreira Carneiro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16969
+gidNumber: 1013
+homeDirectory: /home/aluno/l16969
+gecos: Alexandre Palma Moreira Carneiro,,,
+userPassword: {crypt}1BcScTrIh6fq2
+shadowLastChange: 11500
+
+dn: uid=l16970,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16970
+cn: Pedro Filipe Murteira Carranca
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16970
+gidNumber: 1013
+homeDirectory: /home/aluno/l16970
+gecos: Pedro Filipe Murteira Carranca,,,
+userPassword: {crypt}CBxeuOoGiyIls
+shadowLastChange: 11500
+
+dn: uid=l16982,ou=People,dc=di,dc=uevora,dc=pt
+uid: l16982
+cn: Vitor Manuel Fernandes Parreira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 16982
+gidNumber: 1013
+homeDirectory: /home/aluno/l16982
+gecos: Vitor Manuel Fernandes Parreira,,,
+userPassword: {crypt}tCfm.FGKYfHTE
+shadowLastChange: 11500
+
+dn: uid=l17003,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17003
+cn: Miguel Angelo do Carmo Azevedo
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17003
+gidNumber: 1013
+homeDirectory: /home/aluno/l17003
+gecos: Miguel Angelo do Carmo Azevedo,,,
+userPassword: {crypt}!
+shadowLastChange: 11500
+
+dn: uid=l17114,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17114
+cn: Anselm Papendorf
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17114
+gidNumber: 1013
+homeDirectory: /home/aluno/l17114
+gecos: Anselm Papendorf,,,
+userPassword: {crypt}yMcmu0s5XxVUM
+shadowLastChange: 11500
+
+dn: uid=l17173,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17173
+cn: Luis Filipe Romao Rodrigues
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17173
+gidNumber: 1013
+homeDirectory: /home/aluno/l17173
+gecos: Luis Filipe Romao Rodrigues,,,
+userPassword: {crypt}uW5AJdLaso/oE
+shadowLastChange: 11500
+
+dn: uid=l17190,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17190
+cn: Abdelkader Santos de Carvalho dos Ramos
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17190
+gidNumber: 1013
+homeDirectory: /home/aluno/l17190
+gecos: Abdelkader Santos de Carvalho dos Ramos,,,
+userPassword: {crypt}WApteH7bbdBGU
+shadowLastChange: 11500
+
+dn: uid=l17247,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17247
+cn: Nuno Alexandre Rocha Ferreira Santos
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17247
+gidNumber: 1013
+homeDirectory: /home/aluno/l17247
+gecos: Nuno Alexandre Rocha Ferreira Santos,,,
+userPassword: {crypt}hg0f7pRX72lDc
+shadowLastChange: 11500
+
+dn: uid=l17249,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17249
+cn: Manuel Joaquim Aldeia Nita
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17249
+gidNumber: 1013
+homeDirectory: /home/aluno/l17249
+gecos: Manuel Joaquim Aldeia Nita,,,
+userPassword: {crypt}WkzEOLsuBRScE
+shadowLastChange: 11500
+
+dn: uid=l17279,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17279
+cn: Jose Antonio Nascimento Barros
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17279
+gidNumber: 1013
+homeDirectory: /home/aluno/l17279
+gecos: Jose Antonio Nascimento Barros,,,
+userPassword: {crypt}pkO4XMDyBhtMo
+shadowLastChange: 11500
+
+dn: uid=l17304,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17304
+cn: Tiago Joao Fonseca Moleirinho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17304
+gidNumber: 1013
+homeDirectory: /home/aluno/l17304
+gecos: Tiago Joao Fonseca Moleirinho,,,
+userPassword: {crypt}PiR0EduWWru0Q
+shadowLastChange: 11500
+
+dn: uid=l17305,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17305
+cn: Andre Marcao Teixeira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17305
+gidNumber: 1013
+homeDirectory: /home/aluno/l17305
+gecos: Andre Marcao Teixeira,,,
+userPassword: {crypt}7lLi99wWpr2tA
+shadowLastChange: 11500
+
+dn: uid=l17308,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17308
+cn: Joao Vitor Salgueiro Santos
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17308
+gidNumber: 1013
+homeDirectory: /home/aluno/l17308
+gecos: Joao Vitor Salgueiro Santos,,,
+userPassword: {crypt}XQgzDBPOi08VU
+shadowLastChange: 11500
+
+dn: uid=l17323,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17323
+cn: Joao Filipe Barros de Azevedo Vicente Flores
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17323
+gidNumber: 1013
+homeDirectory: /home/aluno/l17323
+gecos: Joao Filipe Barros de Azevedo Vicente Flores,,,
+userPassword: {crypt}Q3UyT8xZYuWd2
+shadowLastChange: 11500
+
+dn: uid=l17330,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17330
+cn: Paulo Roberto Semedo Silva
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17330
+gidNumber: 1013
+homeDirectory: /home/aluno/l17330
+gecos: Paulo Roberto Semedo Silva,,,
+userPassword: {crypt}mrs2JPiVynXOo
+shadowLastChange: 11500
+
+dn: uid=l17339,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17339
+cn: Luis Filipe Matildes Goncalves
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17339
+gidNumber: 1013
+homeDirectory: /home/aluno/l17339
+gecos: Luis Filipe Matildes Goncalves,,,
+userPassword: {crypt}h3cY6VBuVDklE
+shadowLastChange: 11500
+
+dn: uid=l17341,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17341
+cn: Filipe Gaspar Ribeiro da Cruz
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17341
+gidNumber: 1013
+homeDirectory: /home/aluno/l17341
+gecos: Filipe Gaspar Ribeiro da Cruz,,,
+userPassword: {crypt}6OTdvbZF85NO2
+shadowLastChange: 11500
+
+dn: uid=l17360,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17360
+cn: Jorge Filipe Pereira Alfaiate
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17360
+gidNumber: 1013
+homeDirectory: /home/aluno/l17360
+gecos: Jorge Filipe Pereira Alfaiate,,,
+userPassword: {crypt}ncektdu2zh.xQ
+shadowLastChange: 11500
+
+dn: uid=l17378,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17378
+cn: Nuno Pedro da Cruz Leal da Silva
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17378
+gidNumber: 1013
+homeDirectory: /home/aluno/l17378
+gecos: Nuno Pedro da Cruz Leal da Silva,,,
+userPassword: {crypt}ZoIopMIKH8qys
+shadowLastChange: 11500
+
+dn: uid=l17386,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17386
+cn: Francisco Luis Marinho do Rosario Matias
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17386
+gidNumber: 1013
+homeDirectory: /home/aluno/l17386
+gecos: Francisco Luis Marinho do Rosario Matias,,,
+userPassword: {crypt}ylf29sPYaR6ok
+shadowLastChange: 11500
+
+dn: uid=l17393,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17393
+cn: Nuno Filipe Roque Miranda
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17393
+gidNumber: 1013
+homeDirectory: /home/aluno/l17393
+gecos: Nuno Filipe Roque Miranda,,,
+userPassword: {crypt}BmBwPxLYMCAZQ
+shadowLastChange: 11500
+
+dn: uid=l17406,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17406
+cn: Pedro Miguel Pecas Marques
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17406
+gidNumber: 1013
+homeDirectory: /home/aluno/l17406
+gecos: Pedro Miguel Pecas Marques,,,
+userPassword: {crypt}RmRNdGXCyJfeI
+shadowLastChange: 11500
+
+dn: uid=l17421,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17421
+cn: Henrique Jose Rodrigues da Silva
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17421
+gidNumber: 1013
+homeDirectory: /home/aluno/l17421
+gecos: Henrique Jose Rodrigues da Silva,,,
+userPassword: {crypt}fimmiAoIvdi3c
+shadowLastChange: 11500
+
+dn: uid=l17426,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17426
+cn: Nelson Gabriel Cardoso Alves dos Santos
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17426
+gidNumber: 1013
+homeDirectory: /home/aluno/l17426
+gecos: Nelson Gabriel Cardoso Alves dos Santos,,,
+userPassword: {crypt}uiK1ss3.5cu7Y
+shadowLastChange: 11500
+
+dn: uid=l17438,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17438
+cn: Filipe dos Santos Vieira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17438
+gidNumber: 1013
+homeDirectory: /home/aluno/l17438
+gecos: Filipe dos Santos Vieira,,,
+userPassword: {crypt}mQ3hll3pWxMkg
+shadowLastChange: 11500
+
+dn: uid=l17445,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17445
+cn: Wagner Nascimento Gomes
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17445
+gidNumber: 1013
+homeDirectory: /home/aluno/l17445
+gecos: Wagner Nascimento Gomes,,,
+userPassword: {crypt}w324YogpGU8sw
+shadowLastChange: 11500
+
+dn: uid=l17483,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17483
+cn: Jorge Nuno Terrinca Bernardo da Fonseca Tomas
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17483
+gidNumber: 1013
+homeDirectory: /home/aluno/l17483
+gecos: Jorge Nuno Terrinca Bernardo da Fonseca Tomas,,,
+userPassword: {crypt}im43FtoOk9BOQ
+shadowLastChange: 11500
+
+dn: uid=l17497,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17497
+cn: Luis Miguel Malveiro Pereira Tomaz Roque
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17497
+gidNumber: 1013
+homeDirectory: /home/aluno/l17497
+gecos: Luis Miguel Malveiro Pereira Tomaz Roque,,,
+userPassword: {crypt}ymfaEWiG5upuY
+shadowLastChange: 11500
+
+dn: uid=l17510,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17510
+cn: Joao Paulo Mirones Sinal
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17510
+gidNumber: 1013
+homeDirectory: /home/aluno/l17510
+gecos: Joao Paulo Mirones Sinal,,,
+userPassword: {crypt}DnVkYfXcF32v6
+shadowLastChange: 11500
+
+dn: uid=l17522,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17522
+cn: Joao Francisco Oliveira Goncalves
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17522
+gidNumber: 1013
+homeDirectory: /home/aluno/l17522
+gecos: Joao Francisco Oliveira Goncalves,,,
+userPassword: {crypt}UnUoHod6UguX6
+shadowLastChange: 11500
+
+dn: uid=l17528,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17528
+cn: Nuno Ricardo Silva Passarinho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17528
+gidNumber: 1013
+homeDirectory: /home/aluno/l17528
+gecos: Nuno Ricardo Silva Passarinho,,,
+userPassword: {crypt}84gOzZInn7l1E
+shadowLastChange: 11500
+
+dn: uid=l17567,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17567
+cn: Bruno Miguel de Lemos Ribeiro Pinto Cardoso
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17567
+gidNumber: 1013
+homeDirectory: /home/aluno/l17567
+gecos: Bruno Miguel de Lemos Ribeiro Pinto Cardoso,,,
+userPassword: {crypt}snV22S9c7a0ZY
+shadowLastChange: 11500
+
+dn: uid=l17581,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17581
+cn: Jose Jacinto Giao das Neves
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17581
+gidNumber: 1013
+homeDirectory: /home/aluno/l17581
+gecos: Jose Jacinto Giao das Neves,,,
+userPassword: {crypt}8oz/FJvQn99C2
+shadowLastChange: 11500
+
+dn: uid=l17604,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17604
+cn: Nuno Miguel Barata Chaves
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17604
+gidNumber: 1013
+homeDirectory: /home/aluno/l17604
+gecos: Nuno Miguel Barata Chaves,,,
+userPassword: {crypt}iFUFwkEvjGgqg
+shadowLastChange: 11500
+
+dn: uid=l17613,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17613
+cn: Valter Emanuel Ferreira Carvalho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17613
+gidNumber: 1013
+homeDirectory: /home/aluno/l17613
+gecos: Valter Emanuel Ferreira Carvalho,,,
+userPassword: {crypt}Pon6PIgJj9fPk
+shadowLastChange: 11500
+
+dn: uid=l17616,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17616
+cn: Joao Ricardo Simoes Dimas
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17616
+gidNumber: 1013
+homeDirectory: /home/aluno/l17616
+gecos: Joao Ricardo Simoes Dimas,,,
+userPassword: {crypt}goP/NPGl0EPS2
+shadowLastChange: 11500
+
+dn: uid=l17620,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17620
+cn: Pedro Manuel Trole Henriques
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17620
+gidNumber: 1013
+homeDirectory: /home/aluno/l17620
+gecos: Pedro Manuel Trole Henriques,,,
+userPassword: {crypt}xogJGongiydwo
+shadowLastChange: 11500
+
+dn: uid=l17635,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17635
+cn: Joao Pedro Mendes Faustino Martins
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17635
+gidNumber: 1013
+homeDirectory: /home/aluno/l17635
+gecos: Joao Pedro Mendes Faustino Martins,,,
+userPassword: {crypt}CpYKkzEji9FWI
+shadowLastChange: 11500
+
+dn: uid=l17675,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17675
+cn: Filipe Miguel Estrela Ferreira dos Santos
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17675
+gidNumber: 1013
+homeDirectory: /home/aluno/l17675
+gecos: Filipe Miguel Estrela Ferreira dos Santos,,,
+userPassword: {crypt}SpPTsCtESGvZc
+shadowLastChange: 11500
+
+dn: uid=l17688,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17688
+cn: Jorge Miguel Ribeiro Rama
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17688
+gidNumber: 1013
+homeDirectory: /home/aluno/l17688
+gecos: Jorge Miguel Ribeiro Rama,,,
+userPassword: {crypt}jpl6PmjW/sKPc
+shadowLastChange: 11500
+
+dn: uid=l17694,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17694
+cn: Joao Carlos Russo Marcos Saraiva
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17694
+gidNumber: 1013
+homeDirectory: /home/aluno/l17694
+gecos: Joao Carlos Russo Marcos Saraiva,,,
+userPassword: {crypt}R4YiMIxebn1CU
+shadowLastChange: 11500
+
+dn: uid=l17696,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17696
+cn: Joao Carlos Cabaco de Matos
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17696
+gidNumber: 1013
+homeDirectory: /home/aluno/l17696
+gecos: Joao Carlos Cabaco de Matos,,,
+userPassword: {crypt}zpKOWOTBjzVrE
+shadowLastChange: 11500
+
+dn: uid=l17732,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17732
+cn: Carlos Eduardo Marques Madeira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17732
+gidNumber: 1013
+homeDirectory: /home/aluno/l17732
+gecos: Carlos Eduardo Marques Madeira,,,
+userPassword: {crypt}CqiY6/W7xqWeA
+shadowLastChange: 11500
+
+dn: uid=l17804,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17804
+cn: Pedro Filipe Marques Caixinha
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17804
+gidNumber: 1013
+homeDirectory: /home/aluno/l17804
+gecos: Pedro Filipe Marques Caixinha,,,
+userPassword: {crypt}Sq3xoompEwmPM
+shadowLastChange: 11500
+
+dn: uid=l17812,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17812
+cn: Helder Nuno Martins do Vale Tome
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17812
+gidNumber: 1013
+homeDirectory: /home/aluno/l17812
+gecos: Helder Nuno Martins do Vale Tome,,,
+userPassword: {crypt}hqqzwlJozRpUE
+shadowLastChange: 11500
+
+dn: uid=l17822,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17822
+cn: Rui Pedro Barquinha Caridade
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17822
+gidNumber: 1013
+homeDirectory: /home/aluno/l17822
+gecos: Rui Pedro Barquinha Caridade,,,
+userPassword: {crypt}LORZjUicLG4UM
+shadowLastChange: 11500
+
+dn: uid=l17823,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17823
+cn: Lenira Beatriz Leite Miranda
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17823
+gidNumber: 1013
+homeDirectory: /home/aluno/l17823
+gecos: Lenira Beatriz Leite Miranda,,,
+userPassword: {crypt}WSp633/gAO60I
+shadowLastChange: 11500
+
+dn: uid=l17839,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17839
+cn: Antonio Pedro Leite de Carvalho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17839
+gidNumber: 1013
+homeDirectory: /home/aluno/l17839
+gecos: Antonio Pedro Leite de Carvalho,,,
+userPassword: {crypt}CrSsmvnWOddz6
+shadowLastChange: 11500
+
+dn: uid=l17845,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17845
+cn: Joao Pedro Ramos Rodrigues Pereira
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17845
+gidNumber: 1013
+homeDirectory: /home/aluno/l17845
+gecos: Joao Pedro Ramos Rodrigues Pereira,,,
+userPassword: {crypt}hriPYt0pR706g
+shadowLastChange: 11500
+
+dn: uid=l17858,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17858
+cn: Goncalo Joao Braganca Duarte
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17858
+gidNumber: 1013
+homeDirectory: /home/aluno/l17858
+gecos: Goncalo Joao Braganca Duarte,,,
+userPassword: {crypt}/RK8k8zabTkcA
+shadowLastChange: 11500
+
+dn: uid=l17878,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17878
+cn: Diana Maria Pires Grilo Silva
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17878
+gidNumber: 1013
+homeDirectory: /home/aluno/l17878
+gecos: Diana Maria Pires Grilo Silva,,,
+userPassword: {crypt}wrtWTOzWvID6U
+shadowLastChange: 11500
+
+dn: uid=l17901,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17901
+cn: Jorge Alexandre dos Santos Paulino
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17901
+gidNumber: 1013
+homeDirectory: /home/aluno/l17901
+gecos: Jorge Alexandre dos Santos Paulino,,,
+userPassword: {crypt}ZO6l14TX1eMDU
+shadowLastChange: 11500
+
+dn: uid=l17916,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17916
+cn: Maria Rosa Moura Amador
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17916
+gidNumber: 1013
+homeDirectory: /home/aluno/l17916
+gecos: Maria Rosa Moura Amador,,,
+userPassword: {crypt}AskvJxG7RCcT2
+shadowLastChange: 11500
+
+dn: uid=l17922,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17922
+cn: Bruno Filipe Delgado Ramalho
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17922
+gidNumber: 1013
+homeDirectory: /home/aluno/l17922
+gecos: Bruno Filipe Delgado Ramalho,,,
+userPassword: {crypt}Ss13agQkppOEA
+shadowLastChange: 11500
+
+dn: uid=l17997,ou=People,dc=di,dc=uevora,dc=pt
+uid: l17997
+cn: Joao Carlos Mateus Dias
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 17997
+gidNumber: 1013
+homeDirectory: /home/aluno/l17997
+gecos: Joao Carlos Mateus Dias,,,
+userPassword: {crypt}M4ruhQZ7jjR.Q
+shadowLastChange: 11500
+
+dn: uid=l18113,ou=People,dc=di,dc=uevora,dc=pt
+uid: l18113
+cn: Nelson Cesar dos Reis Monteiro
+objectClass: account
+objectClass: posixAccount
+objectClass: top
+objectClass: shadowAccount
+shadowMax: 99999
+shadowWarning: 7
+loginShell: /bin/bash
+uidNumber: 18113
+gidNumber: 1013
+homeDirectory: /home/aluno/l18113
+gecos: Nelson Cesar dos Reis Monteiro,,,
+userPassword: {crypt}7mnVvy5ne.xUY
+shadowLastChange: 11500
+
